@@ -9,14 +9,19 @@ using Football.Common;
 using Newtonsoft.Json;
 using Football.Adapter;
 using System.Text;
+using System;
+using Android.Widget;
 
 namespace Football
 {
     [Activity(Label = "Bóng đá Đức")]
     public class DucActivity : FragmentActivity
     {
-        RecyclerView recyclerView;
+        RecyclerView recyclerView, recyclerView1;
         RssObject rssObject;
+        RecyclerView.LayoutManager layoutManager;
+        DucCLB ducCLB;
+        DucCLBAdapter clbAdapter;
 
         private const string RSS_link = "http://bongda24h.vn/RSS/193.rss";
         private const string RSS_to_json = " https://api.rss2json.com/v1/api.json?rss_url=";
@@ -24,6 +29,7 @@ namespace Football
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            ducCLB = new DucCLB();
             SetContentView(Resource.Layout.DucActivity);
 
             ActionBar.NavigationMode = ActionBarNavigationMode.Tabs;
@@ -41,7 +47,12 @@ namespace Football
 
             adapter.AddFragmentView((i, v, b) => {
                 var view = i.Inflate(Resource.Layout.tab, v, false);
-                
+                recyclerView1 = view.FindViewById<RecyclerView>(Resource.Id.recyclerView);
+                layoutManager = new LinearLayoutManager(this);
+                recyclerView1.SetLayoutManager(layoutManager);
+                clbAdapter = new DucCLBAdapter(ducCLB);
+                clbAdapter.ItemClick += ClbAdapter_ItemClick;
+                recyclerView1.SetAdapter(clbAdapter);
                 return view;
             });
 
@@ -49,7 +60,13 @@ namespace Football
             pager.SetOnPageChangeListener(new ViewPageListenerForActionBar(ActionBar));
 
             ActionBar.AddTab(pager.GetViewPageTab(ActionBar, "Tin Tức"));
-            ActionBar.AddTab(pager.GetViewPageTab(ActionBar, "Second Tab"));
+            ActionBar.AddTab(pager.GetViewPageTab(ActionBar, "Đội Bóng"));
+        }
+
+        private void ClbAdapter_ItemClick(object sender, int e)
+        {
+            int photoNum = e + 1;
+            Toast.MakeText(this, "This is photo number " + photoNum, ToastLength.Short).Show();
         }
 
         //Proccess data, Build url to get json from rss and call async task

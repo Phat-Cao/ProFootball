@@ -11,7 +11,7 @@ namespace Football
     [Activity(Label = "Football", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        Button btnAnh, btnPhap, btnDuc, btnTBN, btnChauAu, btnChuyenNhuong;
+        Button btnAnh, btnPhap, btnDuc, btnTBN, btnY, btnChuyenNhuong, btnVideo;
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
@@ -21,19 +21,34 @@ namespace Football
             btnPhap = FindViewById<Button>(Resource.Id.btnPhap);
             btnDuc = FindViewById<Button>(Resource.Id.btnDuc);
             btnTBN = FindViewById<Button>(Resource.Id.btnTBN);
-            btnChauAu = FindViewById<Button>(Resource.Id.btnChauAu);
+            btnY = FindViewById<Button>(Resource.Id.btnY);
             btnChuyenNhuong = FindViewById<Button>(Resource.Id.btnChuyenNhuong);
+            btnVideo = FindViewById<Button>(Resource.Id.btnVideo);
 
             btnAnh.Click += BtnAnh_Click;
             btnPhap.Click += BtnPhap_Click;
             btnDuc.Click += BtnDuc_Click;
             btnTBN.Click += BtnTBN_Click;
-            btnChauAu.Click += BtnChauAu_Click;            
+            btnY.Click += BtnY_Click;
+            btnChuyenNhuong.Click += BtnChuyenNhuong_Click;
+            btnVideo.Click += BtnVideo_Click;     
         }
 
-        private void BtnChauAu_Click(object sender, EventArgs e)
+        private void BtnVideo_Click(object sender, EventArgs e)
         {
-            Intent nextActivity = new Intent(this, typeof(ChauAuActivity));
+            Intent nextActivity = new Intent(this, typeof(VideoActivity));
+            StartActivity(nextActivity);
+        }
+
+        private void BtnChuyenNhuong_Click(object sender, EventArgs e)
+        {
+            Intent nextActivity = new Intent(this, typeof(ChuyenNhuongActivity));
+            StartActivity(nextActivity);
+        }
+
+        private void BtnY_Click(object sender, EventArgs e)
+        {
+            Intent nextActivity = new Intent(this, typeof(YActivity));
             StartActivity(nextActivity);
         }
 

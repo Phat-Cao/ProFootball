@@ -29,52 +29,68 @@
         android:id="@+id/tvChonGD"
         android:textSize="16dp" />
     <Button
+        android:background="@layout/button"
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvChonGD"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="20dp"
         android:id="@+id/btnAnh"
         android:text="Bóng Đá Anh"
         android:layout_centerHorizontal="true" />
     <Button
+        android:background="@layout/button"
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/btnAnh"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="8dp"
         android:id="@+id/btnPhap"
         android:text="Bóng Đá Pháp"
         android:layout_centerHorizontal="true" />
     <Button
+        android:background="@layout/button"
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/btnPhap"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="8dp"
         android:id="@+id/btnDuc"
         android:text="Bóng Đá Đức"
         android:layout_centerHorizontal="true" />
     <Button
+        android:background="@layout/button"
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/btnDuc"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="8dp"
         android:id="@+id/btnTBN"
         android:text="Bóng Đá TBN"
         android:layout_centerHorizontal="true" />
     <Button
+        android:background="@layout/button"
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/btnTBN"
-        android:layout_marginTop="10dp"
-        android:id="@+id/btnChauAu"
+        android:layout_marginTop="8dp"
+        android:id="@+id/btnY"
         android:layout_centerHorizontal="true"
-        android:text="Bóng Đá Châu Âu " />
+        android:text="Bóng Đá Ý" />
     <Button
+        android:background="@layout/button"
         android:text="Chuyển Nhượng"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnChuyenNhuong"
-        android:layout_below="@id/btnChauAu"
+        android:layout_below="@id/btnY"
         android:layout_centerHorizontal="true"
         android:width="257dp"
-        android:layout_marginTop="10dp" />
+        android:layout_marginTop="8dp" />
+    <Button
+        android:background="@layout/button"
+        android:text="Video Clip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnChuyenNhuong"
+        android:id="@+id/btnVideo"
+        android:layout_marginTop="8dp"
+        android:width="257dp"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

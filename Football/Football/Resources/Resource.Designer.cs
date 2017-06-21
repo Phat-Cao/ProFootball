@@ -1702,76 +1702,313 @@ namespace Football
 			public const int AFCBournemouth = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int ArsenalFC = 2130837591;
+			public const int angers = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int AstonVillaFC = 2130837592;
+			public const int ArsenalFC = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int background = 2130837593;
+			public const int ASMonaco = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int BirminghamCityFC = 2130837594;
+			public const int ASNancyLorraine = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int Blackburn = 2130837595;
+			public const int AstonVillaFC = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int BoltonWanderersFC = 2130837596;
+			public const int AtalantaBC = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int Chelsea = 2130837597;
+			public const int AthleticBilbao = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int EvertonFC = 2130837598;
+			public const int AtleticoMadrid = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int field = 2130837599;
+			public const int Augsburg = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int Icon = 2130837600;
+			public const int background = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int notification_action_background = 2130837601;
+			public const int Barcelona = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int notification_bg = 2130837602;
+			public const int Bastia = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int notification_bg_low = 2130837603;
+			public const int BayernMunchen = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_bg_low_normal = 2130837604;
+			public const int BeneventoCalcio = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int notification_bg_low_pressed = 2130837605;
+			public const int BirminghamCityFC = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int notification_bg_normal = 2130837606;
+			public const int Blackburn = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int notification_bg_normal_pressed = 2130837607;
+			public const int Bologna = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int notification_icon_background = 2130837608;
-			
-			// aapt resource value: 0x7f02006d
-			public const int notification_template_icon_bg = 2130837613;
-			
-			// aapt resource value: 0x7f02006e
-			public const int notification_template_icon_low_bg = 2130837614;
+			public const int BoltonWanderersFC = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int notification_tile_bg = 2130837609;
+			public const int Bordeaux = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int notify_panel_notification_icon_bg = 2130837610;
+			public const int BorussiaDortmund = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int shirt = 2130837611;
+			public const int BorussiaMonchengladbach = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int strategy = 2130837612;
+			public const int CagliariCalcio = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int CeltadeVigo = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int Chelsea = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int Chievoverona = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int Cologne = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int Crotone = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int Darmstadt = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int DeportivoAlaves = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int DeportivoLaCorua = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int DijonFCO = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int Eibar = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int EintrachtFrankfurt = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int espanyol = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int EvertonFC = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int field = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int Fiorentina = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int FSVMainz = 2130837628;
+			
+			// aapt resource value: 0x7f02007d
+			public const int FulhamFC = 2130837629;
+			
+			// aapt resource value: 0x7f02007e
+			public const int Genoa = 2130837630;
+			
+			// aapt resource value: 0x7f02007f
+			public const int Guingamp = 2130837631;
+			
+			// aapt resource value: 0x7f020080
+			public const int HerthaBSC = 2130837632;
+			
+			// aapt resource value: 0x7f020081
+			public const int HSV = 2130837633;
+			
+			// aapt resource value: 0x7f020082
+			public const int Icon = 2130837634;
+			
+			// aapt resource value: 0x7f020083
+			public const int Ingolstadt04 = 2130837635;
+			
+			// aapt resource value: 0x7f020084
+			public const int InterMilan = 2130837636;
+			
+			// aapt resource value: 0x7f020085
+			public const int Juventus = 2130837637;
+			
+			// aapt resource value: 0x7f020086
+			public const int LasPalmas = 2130837638;
+			
+			// aapt resource value: 0x7f020087
+			public const int Lazio = 2130837639;
+			
+			// aapt resource value: 0x7f020088
+			public const int Leganes = 2130837640;
+			
+			// aapt resource value: 0x7f020089
+			public const int LeicesterCity = 2130837641;
+			
+			// aapt resource value: 0x7f02008a
+			public const int Leverkusen = 2130837642;
+			
+			// aapt resource value: 0x7f02008b
+			public const int Lille = 2130837643;
+			
+			// aapt resource value: 0x7f02008c
+			public const int LiverpoolFC = 2130837644;
+			
+			// aapt resource value: 0x7f02008d
+			public const int Lorient = 2130837645;
+			
+			// aapt resource value: 0x7f02008e
+			public const int Lyonnais = 2130837646;
+			
+			// aapt resource value: 0x7f02008f
+			public const int Malaga = 2130837647;
+			
+			// aapt resource value: 0x7f020090
+			public const int ManchesterCityFC = 2130837648;
+			
+			// aapt resource value: 0x7f020091
+			public const int ManUtdFC = 2130837649;
+			
+			// aapt resource value: 0x7f020092
+			public const int Marseille = 2130837650;
+			
+			// aapt resource value: 0x7f020093
+			public const int Metz = 2130837651;
+			
+			// aapt resource value: 0x7f020094
+			public const int MiddlesbroughFC = 2130837652;
+			
+			// aapt resource value: 0x7f020095
+			public const int Milan = 2130837653;
+			
+			// aapt resource value: 0x7f020096
+			public const int Montpellier = 2130837654;
+			
+			// aapt resource value: 0x7f020097
+			public const int Nantes = 2130837655;
+			
+			// aapt resource value: 0x7f020098
+			public const int Napoli = 2130837656;
+			
+			// aapt resource value: 0x7f020099
+			public const int NewcastleUnitedFC = 2130837657;
+			
+			// aapt resource value: 0x7f02009a
+			public const int Nice = 2130837658;
+			
+			// aapt resource value: 0x7f02009b
+			public const int notification_action_background = 2130837659;
+			
+			// aapt resource value: 0x7f02009c
+			public const int notification_bg = 2130837660;
+			
+			// aapt resource value: 0x7f02009d
+			public const int notification_bg_low = 2130837661;
+			
+			// aapt resource value: 0x7f02009e
+			public const int notification_bg_low_normal = 2130837662;
+			
+			// aapt resource value: 0x7f02009f
+			public const int notification_bg_low_pressed = 2130837663;
+			
+			// aapt resource value: 0x7f0200a0
+			public const int notification_bg_normal = 2130837664;
+			
+			// aapt resource value: 0x7f0200a1
+			public const int notification_bg_normal_pressed = 2130837665;
+			
+			// aapt resource value: 0x7f0200a2
+			public const int notification_icon_background = 2130837666;
+			
+			// aapt resource value: 0x7f0200bc
+			public const int notification_template_icon_bg = 2130837692;
+			
+			// aapt resource value: 0x7f0200bd
+			public const int notification_template_icon_low_bg = 2130837693;
+			
+			// aapt resource value: 0x7f0200a3
+			public const int notification_tile_bg = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int notify_panel_notification_icon_bg = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int Osasuna = 2130837669;
+			
+			// aapt resource value: 0x7f0200a6
+			public const int ParisSaintGermain = 2130837670;
+			
+			// aapt resource value: 0x7f0200a7
+			public const int RBLeipzig = 2130837671;
+			
+			// aapt resource value: 0x7f0200a8
+			public const int Realbetis = 2130837672;
+			
+			// aapt resource value: 0x7f0200a9
+			public const int RealMadrid = 2130837673;
+			
+			// aapt resource value: 0x7f0200aa
+			public const int RealSociedad = 2130837674;
+			
+			// aapt resource value: 0x7f0200ab
+			public const int refreshing = 2130837675;
+			
+			// aapt resource value: 0x7f0200ac
+			public const int Roma = 2130837676;
+			
+			// aapt resource value: 0x7f0200ad
+			public const int Sampdoria = 2130837677;
+			
+			// aapt resource value: 0x7f0200ae
+			public const int Sassuolo = 2130837678;
+			
+			// aapt resource value: 0x7f0200af
+			public const int SCFreiburg = 2130837679;
+			
+			// aapt resource value: 0x7f0200b0
+			public const int Schalke04 = 2130837680;
+			
+			// aapt resource value: 0x7f0200b1
+			public const int Sevilla = 2130837681;
+			
+			// aapt resource value: 0x7f0200b2
+			public const int shirt = 2130837682;
+			
+			// aapt resource value: 0x7f0200b3
+			public const int SMCaen = 2130837683;
+			
+			// aapt resource value: 0x7f0200b4
+			public const int StokeCityFC = 2130837684;
+			
+			// aapt resource value: 0x7f0200b5
+			public const int strategy = 2130837685;
+			
+			// aapt resource value: 0x7f0200b6
+			public const int TSGHoffenheim = 2130837686;
+			
+			// aapt resource value: 0x7f0200b7
+			public const int Valencia = 2130837687;
+			
+			// aapt resource value: 0x7f0200b8
+			public const int Verona = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int VfLWolfsburg = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int WerderBremen = 2130837690;
+			
+			// aapt resource value: 0x7f0200bb
+			public const int WestHamUnitedFC = 2130837691;
 			
 			static Drawable()
 			{
@@ -1786,8 +2023,8 @@ namespace Football
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060068
-			public const int action0 = 2131099752;
+			// aapt resource value: 0x7f06006b
+			public const int action0 = 2131099755;
 			
 			// aapt resource value: 0x7f060048
 			public const int action_bar = 2131099720;
@@ -1810,17 +2047,17 @@ namespace Football
 			// aapt resource value: 0x7f060025
 			public const int action_bar_title = 2131099685;
 			
-			// aapt resource value: 0x7f060065
-			public const int action_container = 2131099749;
+			// aapt resource value: 0x7f060068
+			public const int action_container = 2131099752;
 			
 			// aapt resource value: 0x7f060049
 			public const int action_context_bar = 2131099721;
 			
-			// aapt resource value: 0x7f06006c
-			public const int action_divider = 2131099756;
+			// aapt resource value: 0x7f06006f
+			public const int action_divider = 2131099759;
 			
-			// aapt resource value: 0x7f060066
-			public const int action_image = 2131099750;
+			// aapt resource value: 0x7f060069
+			public const int action_image = 2131099753;
 			
 			// aapt resource value: 0x7f060003
 			public const int action_menu_divider = 2131099651;
@@ -1837,11 +2074,11 @@ namespace Football
 			// aapt resource value: 0x7f060027
 			public const int action_mode_close_button = 2131099687;
 			
-			// aapt resource value: 0x7f060067
-			public const int action_text = 2131099751;
+			// aapt resource value: 0x7f06006a
+			public const int action_text = 2131099754;
 			
-			// aapt resource value: 0x7f060075
-			public const int actions = 2131099765;
+			// aapt resource value: 0x7f060078
+			public const int actions = 2131099768;
 			
 			// aapt resource value: 0x7f060028
 			public const int activity_chooser_view_content = 2131099688;
@@ -1861,35 +2098,38 @@ namespace Football
 			// aapt resource value: 0x7f060023
 			public const int bottom = 2131099683;
 			
-			// aapt resource value: 0x7f06005f
-			public const int btnAnh = 2131099743;
+			// aapt resource value: 0x7f060061
+			public const int btnAnh = 2131099745;
+			
+			// aapt resource value: 0x7f060066
+			public const int btnChuyenNhuong = 2131099750;
 			
 			// aapt resource value: 0x7f060063
-			public const int btnChauAu = 2131099747;
-			
-			// aapt resource value: 0x7f060064
-			public const int btnChuyenNhuong = 2131099748;
-			
-			// aapt resource value: 0x7f060061
-			public const int btnDuc = 2131099745;
-			
-			// aapt resource value: 0x7f060060
-			public const int btnPhap = 2131099744;
+			public const int btnDuc = 2131099747;
 			
 			// aapt resource value: 0x7f060062
-			public const int btnTBN = 2131099746;
+			public const int btnPhap = 2131099746;
+			
+			// aapt resource value: 0x7f060064
+			public const int btnTBN = 2131099748;
+			
+			// aapt resource value: 0x7f060067
+			public const int btnVideo = 2131099751;
+			
+			// aapt resource value: 0x7f060065
+			public const int btnY = 2131099749;
 			
 			// aapt resource value: 0x7f06002f
 			public const int buttonPanel = 2131099695;
 			
-			// aapt resource value: 0x7f060069
-			public const int cancel_action = 2131099753;
+			// aapt resource value: 0x7f06006c
+			public const int cancel_action = 2131099756;
 			
 			// aapt resource value: 0x7f06003f
 			public const int checkbox = 2131099711;
 			
-			// aapt resource value: 0x7f060071
-			public const int chronometer = 2131099761;
+			// aapt resource value: 0x7f060074
+			public const int chronometer = 2131099764;
 			
 			// aapt resource value: 0x7f06001f
 			public const int collapseActionView = 2131099679;
@@ -1918,8 +2158,8 @@ namespace Football
 			// aapt resource value: 0x7f06001c
 			public const int end = 2131099676;
 			
-			// aapt resource value: 0x7f06007b
-			public const int end_padder = 2131099771;
+			// aapt resource value: 0x7f06007e
+			public const int end_padder = 2131099774;
 			
 			// aapt resource value: 0x7f060029
 			public const int expand_activities_button = 2131099689;
@@ -1936,8 +2176,8 @@ namespace Football
 			// aapt resource value: 0x7f06002d
 			public const int icon = 2131099693;
 			
-			// aapt resource value: 0x7f060076
-			public const int icon_group = 2131099766;
+			// aapt resource value: 0x7f060079
+			public const int icon_group = 2131099769;
 			
 			// aapt resource value: 0x7f060020
 			public const int ifRoom = 2131099680;
@@ -1945,20 +2185,20 @@ namespace Football
 			// aapt resource value: 0x7f06002a
 			public const int image = 2131099690;
 			
-			// aapt resource value: 0x7f060058
-			public const int imageView = 2131099736;
+			// aapt resource value: 0x7f06005a
+			public const int imageView = 2131099738;
 			
-			// aapt resource value: 0x7f060072
-			public const int info = 2131099762;
+			// aapt resource value: 0x7f060075
+			public const int info = 2131099765;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
 			
-			// aapt resource value: 0x7f060077
-			public const int line1 = 2131099767;
+			// aapt resource value: 0x7f06007a
+			public const int line1 = 2131099770;
 			
-			// aapt resource value: 0x7f060079
-			public const int line3 = 2131099769;
+			// aapt resource value: 0x7f06007c
+			public const int line3 = 2131099772;
 			
 			// aapt resource value: 0x7f06000a
 			public const int listMode = 2131099658;
@@ -1966,8 +2206,11 @@ namespace Football
 			// aapt resource value: 0x7f06002c
 			public const int list_item = 2131099692;
 			
-			// aapt resource value: 0x7f06006b
-			public const int media_actions = 2131099755;
+			// aapt resource value: 0x7f06006e
+			public const int media_actions = 2131099758;
+			
+			// aapt resource value: 0x7f060082
+			public const int menu_refresh = 2131099778;
 			
 			// aapt resource value: 0x7f06001d
 			public const int middle = 2131099677;
@@ -1984,14 +2227,14 @@ namespace Football
 			// aapt resource value: 0x7f06000b
 			public const int normal = 2131099659;
 			
-			// aapt resource value: 0x7f060074
-			public const int notification_background = 2131099764;
+			// aapt resource value: 0x7f060077
+			public const int notification_background = 2131099767;
 			
-			// aapt resource value: 0x7f06006e
-			public const int notification_main_column = 2131099758;
+			// aapt resource value: 0x7f060071
+			public const int notification_main_column = 2131099761;
 			
-			// aapt resource value: 0x7f06006d
-			public const int notification_main_column_container = 2131099757;
+			// aapt resource value: 0x7f060070
+			public const int notification_main_column_container = 2131099760;
 			
 			// aapt resource value: 0x7f060057
 			public const int pager = 2131099735;
@@ -2008,14 +2251,14 @@ namespace Football
 			// aapt resource value: 0x7f060041
 			public const int radio = 2131099713;
 			
-			// aapt resource value: 0x7f06007f
-			public const int recyclerView = 2131099775;
+			// aapt resource value: 0x7f060059
+			public const int recyclerView = 2131099737;
 			
-			// aapt resource value: 0x7f060073
-			public const int right_icon = 2131099763;
+			// aapt resource value: 0x7f060076
+			public const int right_icon = 2131099766;
 			
-			// aapt resource value: 0x7f06006f
-			public const int right_side = 2131099759;
+			// aapt resource value: 0x7f060072
+			public const int right_side = 2131099762;
 			
 			// aapt resource value: 0x7f060016
 			public const int screen = 2131099670;
@@ -2089,8 +2332,8 @@ namespace Football
 			// aapt resource value: 0x7f060019
 			public const int src_over = 2131099673;
 			
-			// aapt resource value: 0x7f06006a
-			public const int status_bar_latest_event_content = 2131099754;
+			// aapt resource value: 0x7f06006d
+			public const int status_bar_latest_event_content = 2131099757;
 			
 			// aapt resource value: 0x7f060042
 			public const int submenuarrow = 2131099714;
@@ -2101,11 +2344,11 @@ namespace Football
 			// aapt resource value: 0x7f06000c
 			public const int tabMode = 2131099660;
 			
-			// aapt resource value: 0x7f06007a
-			public const int text = 2131099770;
+			// aapt resource value: 0x7f06007d
+			public const int text = 2131099773;
 			
-			// aapt resource value: 0x7f060078
-			public const int text2 = 2131099768;
+			// aapt resource value: 0x7f06007b
+			public const int text2 = 2131099771;
 			
 			// aapt resource value: 0x7f060036
 			public const int textSpacerNoButtons = 2131099702;
@@ -2113,8 +2356,8 @@ namespace Football
 			// aapt resource value: 0x7f060035
 			public const int textSpacerNoTitle = 2131099701;
 			
-			// aapt resource value: 0x7f060070
-			public const int time = 2131099760;
+			// aapt resource value: 0x7f060073
+			public const int time = 2131099763;
 			
 			// aapt resource value: 0x7f06002e
 			public const int title = 2131099694;
@@ -2125,38 +2368,41 @@ namespace Football
 			// aapt resource value: 0x7f06003b
 			public const int title_template = 2131099707;
 			
+			// aapt resource value: 0x7f060058
+			public const int toolbar = 2131099736;
+			
 			// aapt resource value: 0x7f060024
 			public const int top = 2131099684;
 			
 			// aapt resource value: 0x7f06003a
 			public const int topPanel = 2131099706;
 			
-			// aapt resource value: 0x7f06005e
-			public const int tvChonGD = 2131099742;
+			// aapt resource value: 0x7f060060
+			public const int tvChonGD = 2131099744;
 			
-			// aapt resource value: 0x7f06005d
-			public const int tvProFB = 2131099741;
+			// aapt resource value: 0x7f06005f
+			public const int tvProFB = 2131099743;
 			
-			// aapt resource value: 0x7f06007e
-			public const int txtContent = 2131099774;
-			
-			// aapt resource value: 0x7f06005a
-			public const int txtNgay = 2131099738;
-			
-			// aapt resource value: 0x7f06007d
-			public const int txtPubDate = 2131099773;
-			
-			// aapt resource value: 0x7f06005b
-			public const int txtSVD = 2131099739;
+			// aapt resource value: 0x7f060081
+			public const int txtContent = 2131099777;
 			
 			// aapt resource value: 0x7f06005c
-			public const int txtSoLuong = 2131099740;
+			public const int txtNgay = 2131099740;
 			
-			// aapt resource value: 0x7f060059
-			public const int txtTen = 2131099737;
+			// aapt resource value: 0x7f060080
+			public const int txtPubDate = 2131099776;
 			
-			// aapt resource value: 0x7f06007c
-			public const int txtTitle = 2131099772;
+			// aapt resource value: 0x7f06005d
+			public const int txtSVD = 2131099741;
+			
+			// aapt resource value: 0x7f06005e
+			public const int txtSoLuong = 2131099742;
+			
+			// aapt resource value: 0x7f06005b
+			public const int txtTen = 2131099739;
+			
+			// aapt resource value: 0x7f06007f
+			public const int txtTitle = 2131099775;
 			
 			// aapt resource value: 0x7f060009
 			public const int up = 2131099657;
@@ -2293,85 +2539,94 @@ namespace Football
 			public const int AnhActivity = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int ChauAuActivity = 2130903068;
+			public const int button = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int CLBCard = 2130903069;
+			public const int ChuyenNhuongActivity = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int DucActivity = 2130903070;
+			public const int CLBCard = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int Main = 2130903071;
+			public const int DucActivity = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int notification_action = 2130903072;
+			public const int Main = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int notification_action_tombstone = 2130903073;
+			public const int notification_action = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int notification_media_action = 2130903074;
+			public const int notification_action_tombstone = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int notification_media_cancel_action = 2130903075;
+			public const int notification_media_action = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int notification_template_big_media = 2130903076;
+			public const int notification_media_cancel_action = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int notification_template_big_media_custom = 2130903077;
+			public const int notification_template_big_media = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int notification_template_big_media_narrow = 2130903078;
+			public const int notification_template_big_media_custom = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int notification_template_big_media_narrow_custom = 2130903079;
+			public const int notification_template_big_media_narrow = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int notification_template_custom_big = 2130903080;
+			public const int notification_template_big_media_narrow_custom = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int notification_template_icon_group = 2130903081;
+			public const int notification_template_custom_big = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int notification_template_lines_media = 2130903082;
+			public const int notification_template_icon_group = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int notification_template_media = 2130903083;
+			public const int notification_template_lines_media = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int notification_template_media_custom = 2130903084;
+			public const int notification_template_media = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int notification_template_part_chronometer = 2130903085;
+			public const int notification_template_media_custom = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int notification_template_part_time = 2130903086;
+			public const int notification_template_part_chronometer = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int PhapActivity = 2130903087;
+			public const int notification_template_part_time = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int Row = 2130903088;
+			public const int PhapActivity = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int select_dialog_item_material = 2130903089;
+			public const int Row = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int select_dialog_multichoice_material = 2130903090;
+			public const int select_dialog_item_material = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int select_dialog_singlechoice_material = 2130903091;
+			public const int select_dialog_multichoice_material = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int support_simple_spinner_dropdown_item = 2130903092;
+			public const int select_dialog_singlechoice_material = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int tab = 2130903093;
+			public const int support_simple_spinner_dropdown_item = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int TBNActivity = 2130903094;
+			public const int tab = 2130903094;
+			
+			// aapt resource value: 0x7f030037
+			public const int TBNActivity = 2130903095;
+			
+			// aapt resource value: 0x7f030038
+			public const int VideoActivity = 2130903096;
+			
+			// aapt resource value: 0x7f030039
+			public const int YActivity = 2130903097;
 			
 			static Layout()
 			{
@@ -2379,6 +2634,22 @@ namespace Football
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0c0000
+			public const int Main_Menu = 2131492864;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
 			{
 			}
 		}
