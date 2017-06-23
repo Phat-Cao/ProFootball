@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Football.Football" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Football" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="Bóng đá Anh" android:name="md57abc7087afad6150249d2adf8ab4d3ca.AnhActivity" />
+    <activity android:label="ChuyenNhuongActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md57abc7087afad6150249d2adf8ab4d3ca.ChuyenNhuongActivity" />
+    <activity android:label="MyIntro" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md57abc7087afad6150249d2adf8ab4d3ca.MyIntro">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="VideoActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md57abc7087afad6150249d2adf8ab4d3ca.VideoActivity" />
+    <activity android:label="Bóng đá Ý" android:name="md57abc7087afad6150249d2adf8ab4d3ca.YActivity" />
+    <activity android:label="Bóng đá Đức" android:name="md57abc7087afad6150249d2adf8ab4d3ca.DucActivity" />
+    <activity android:icon="@drawable/icon" android:label="Football" android:name="md57abc7087afad6150249d2adf8ab4d3ca.MainActivity" />
+    <activity android:label="Bóng đá Pháp" android:name="md57abc7087afad6150249d2adf8ab4d3ca.PhapActivity" />
+    <activity android:label="Bóng đá Tây Ban Nha" android:name="md57abc7087afad6150249d2adf8ab4d3ca.TBNActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Football.Football.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Football.Football" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <meta-data android:name="android.support.VERSION" android:value="25.3.1" />
+</manifest>

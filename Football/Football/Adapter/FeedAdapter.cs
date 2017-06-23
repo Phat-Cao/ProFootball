@@ -68,7 +68,7 @@ namespace Football.Adapter
             hh.itemClickListener = this;
         }
 
-        //When user click on item of recycler view, call intent to show web Url
+        //Khi nguoi dung click vao 1 item thi se hien iten de show web url
         public void OnClick(View view, int position, bool isLongClick)
         {
             if(!isLongClick)

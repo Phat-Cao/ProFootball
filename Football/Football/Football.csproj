@@ -46,6 +46,10 @@
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AppIntro, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AppIntro.1.0.0\lib\monoandroid70\AppIntro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
@@ -114,6 +118,7 @@
     <Compile Include="AnhCLB.cs" />
     <Compile Include="ChuyenNhuongActivity.cs" />
     <Compile Include="DucCLB.cs" />
+    <Compile Include="MyIntro.cs" />
     <Compile Include="PhapCLB.cs" />
     <Compile Include="TBNCLB.cs" />
     <Compile Include="VideoActivity.cs" />
@@ -468,6 +473,15 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\refreshing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\flamingfootball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\footballfieldinperspective.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\footballtrophy.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

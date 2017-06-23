@@ -8,7 +8,7 @@ using System;
 
 namespace Football
 {
-    [Activity(Label = "Football", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Football", Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         Button btnAnh, btnPhap, btnDuc, btnTBN, btnY, btnChuyenNhuong, btnVideo;

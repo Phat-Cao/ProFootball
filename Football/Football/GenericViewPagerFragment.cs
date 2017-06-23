@@ -5,6 +5,7 @@ using Android.Support.V4.App;
 
 namespace Football
 {
+    //File Giao dien Fragment, dung de hien thi giao dien
     public class GenericViewPagerFragment : Fragment
     {
         private Func<LayoutInflater, ViewGroup, Bundle, View> _view;

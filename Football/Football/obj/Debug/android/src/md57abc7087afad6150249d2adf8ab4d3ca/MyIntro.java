@@ -1,0 +1,47 @@
+package md57abc7087afad6150249d2adf8ab4d3ca;
+
+
+public class MyIntro
+	extends md5067d2cdf74218ac5bd0be4ea976b2895.AppIntro
+	implements
+		mono.android.IGCUserPeer
+{
+/** @hide */
+	public static final String __md_methods;
+	static {
+		__md_methods = 
+			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"";
+		mono.android.Runtime.register ("Football.MyIntro, Football, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MyIntro.class, __md_methods);
+	}
+
+
+	public MyIntro () throws java.lang.Throwable
+	{
+		super ();
+		if (getClass () == MyIntro.class)
+			mono.android.TypeManager.Activate ("Football.MyIntro, Football, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+	}
+
+
+	public void onCreate (android.os.Bundle p0)
+	{
+		n_onCreate (p0);
+	}
+
+	private native void n_onCreate (android.os.Bundle p0);
+
+	private java.util.ArrayList refList;
+	public void monodroidAddReference (java.lang.Object obj)
+	{
+		if (refList == null)
+			refList = new java.util.ArrayList ();
+		refList.add (obj);
+	}
+
+	public void monodroidClearReferences ()
+	{
+		if (refList != null)
+			refList.clear ();
+	}
+}

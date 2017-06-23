@@ -1,89 +1,183 @@
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Football.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Football.pdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Football.Football.apk
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Football.Football-Signed.apk
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Annotations.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Compat.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Core.UI.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Fragment.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\Football.dll
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\Football.pdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\bin\Football.Football.apk
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\anhactivity.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\chauauactivity.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\ducactivity.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\phapactivity.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\tbnactivity.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\tab.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\row.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\layout\main.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\values\strings.xml
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\field.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\icon.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\shirt.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\strategy.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\intro.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\intro2.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\intro1.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\background.jpg
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\a1.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\a2.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\res\drawable\a3.png
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\R.cs.flag
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\uploadflags.txt
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Football.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Java.Interop.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Microsoft.CSharp.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Mono.Android.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\Mono.CSharp.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\mscorlib.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.ComponentModel.Composition.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.Core.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.IO.Compression.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.Net.Http.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.Numerics.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.Runtime.Serialization.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.ServiceModel.Internals.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.Xml.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\Football.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\Java.Interop.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\Mono.Android.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\Mono.CSharp.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\mscorlib.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.Core.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.IO.Compression.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.Net.Http.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.Numerics.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.Xml.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\Anh\Documents\Visual Studio 2015\Projects\Football\Football\obj\Debug\Football.dll.mdb
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+D:\Projects\Football\Football\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+D:\Projects\Football\Football\bin\Debug\Football.dll
+D:\Projects\Football\Football\bin\Debug\Football.pdb
+D:\Projects\Football\Football\bin\Debug\Football.Football.apk
+D:\Projects\Football\Football\bin\Debug\Football.Football-Signed.apk
+D:\Projects\Football\Football\bin\Debug\AppIntro.dll
+D:\Projects\Football\Football\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Projects\Football\Football\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Projects\Football\Football\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Football\Football\obj\Debug\Football.dll
+D:\Projects\Football\Football\obj\Debug\Football.pdb
+D:\Projects\Football\Football\obj\Debug\android\bin\Football.Football.apk
+D:\Projects\Football\Football\obj\Debug\res\layout\anhactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\yactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\ducactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\phapactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\tbnactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\tab.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\row.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\clbcard.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\chuyennhuongactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\videoactivity.xml
+D:\Projects\Football\Football\obj\Debug\res\layout\main.xml
+D:\Projects\Football\Football\obj\Debug\res\values\strings.xml
+D:\Projects\Football\Football\obj\Debug\res\drawable\field.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\icon.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\shirt.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\strategy.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\background.jpg
+D:\Projects\Football\Football\obj\Debug\res\drawable\a1.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\a2.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\a3.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\birminghamcityfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\astonvillafc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\arsenalfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\blackburn.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\boltonwanderersfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\afcbournemouth.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\evertonfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\chelsea.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\fulhamfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\liverpoolfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\manutdfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\middlesbroughfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\newcastleunitedfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\manchestercityfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\stokecityfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\leicestercity.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\westhamunitedfc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\angers.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\bastia.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\bordeaux.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\dijonfco.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\guingamp.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\lille.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\smcaen.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\asnancylorraine.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\lorient.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\lyonnais.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\marseille.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\metz.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\asmonaco.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\montpellier.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\nantes.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\nice.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\parissaintgermain.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\augsburg.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\leverkusen.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\borussiadortmund.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\borussiamonchengladbach.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\darmstadt.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\eintrachtfrankfurt.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\scfreiburg.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\bayernmunchen.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\fsvmainz.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\hsv.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\herthabsc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\tsghoffenheim.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\ingolstadt04.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\cologne.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\rbleipzig.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\schalke04.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\werderbremen.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\vflwolfsburg.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\athleticbilbao.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\atleticomadrid.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\barcelona.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\celtadevigo.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\deportivoalaves.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\deportivolacorua.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\eibar.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\espanyol.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\laspalmas.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\leganes.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\valencia.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\malaga.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\osasuna.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\realbetis.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\realmadrid.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\realsociedad.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\sevilla.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\atalantabc.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\beneventocalcio.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\bologna.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\cagliaricalcio.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\chievoverona.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\crotone.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\fiorentina.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\genoa.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\verona.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\intermilan.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\sassuolo.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\juventus.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\lazio.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\milan.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\napoli.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\roma.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\sampdoria.png
+D:\Projects\Football\Football\obj\Debug\res\layout\button.xml
+D:\Projects\Football\Football\obj\Debug\res\menu\main_menu.xml
+D:\Projects\Football\Football\obj\Debug\res\drawable\refreshing.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\flamingfootball.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\footballfieldinperspective.png
+D:\Projects\Football\Football\obj\Debug\res\drawable\footballtrophy.png
+D:\Projects\Football\Football\obj\Debug\R.cs.flag
+D:\Projects\Football\Football\obj\Debug\uploadflags.txt
+D:\Projects\Football\Football\bin\Debug\Football.dll.mdb
+D:\Projects\Football\Football\bin\Debug\Java.Interop.dll.mdb
+D:\Projects\Football\Football\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Projects\Football\Football\bin\Debug\Mono.Android.dll.mdb
+D:\Projects\Football\Football\bin\Debug\Mono.CSharp.dll.mdb
+D:\Projects\Football\Football\bin\Debug\mscorlib.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.Core.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.IO.Compression.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.Net.Http.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.Numerics.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.Xml.dll.mdb
+D:\Projects\Football\Football\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\Football.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.Numerics.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Projects\Football\Football\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Projects\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+D:\Projects\Football\Football\obj\Debug\Football.dll.mdb
+D:\Projects\Football\Football\bin\Debug\Football.dll.mdb

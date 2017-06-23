@@ -8,9 +8,11 @@ using Android.Support.V4.View;
 
 namespace Football
 {
+    //Cau hinh viewpager de hien thi cac fragment duoc tao
     public class GenericFragmentPagerAdapter : FragmentPagerAdapter
     {
         private List<Android.Support.V4.App.Fragment> _fragmentList = new List<Android.Support.V4.App.Fragment>();
+
         public GenericFragmentPagerAdapter(Android.Support.V4.App.FragmentManager fm) : base(fm)
         {
 
@@ -26,6 +28,7 @@ namespace Football
             _fragmentList.Add(fragment);
         }
 
+        //Tra ve so luong cac fragment
         public override int Count
         {
             get
@@ -34,6 +37,7 @@ namespace Football
             }
         }
 
+        //Tra ve vi tri cua Fragment 
         public override Android.Support.V4.App.Fragment GetItem(int position)
         {
             return _fragmentList[position];

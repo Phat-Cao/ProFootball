@@ -26,6 +26,1402 @@ namespace Football
 		
 		public static void UpdateIdValues()
 		{
+			global::AppIntro.Resource.Animation.abc_fade_in = global::Football.Resource.Animation.abc_fade_in;
+			global::AppIntro.Resource.Animation.abc_fade_out = global::Football.Resource.Animation.abc_fade_out;
+			global::AppIntro.Resource.Animation.abc_grow_fade_in_from_bottom = global::Football.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::AppIntro.Resource.Animation.abc_popup_enter = global::Football.Resource.Animation.abc_popup_enter;
+			global::AppIntro.Resource.Animation.abc_popup_exit = global::Football.Resource.Animation.abc_popup_exit;
+			global::AppIntro.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Football.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::AppIntro.Resource.Animation.abc_slide_in_bottom = global::Football.Resource.Animation.abc_slide_in_bottom;
+			global::AppIntro.Resource.Animation.abc_slide_in_top = global::Football.Resource.Animation.abc_slide_in_top;
+			global::AppIntro.Resource.Animation.abc_slide_out_bottom = global::Football.Resource.Animation.abc_slide_out_bottom;
+			global::AppIntro.Resource.Animation.abc_slide_out_top = global::Football.Resource.Animation.abc_slide_out_top;
+			global::AppIntro.Resource.Attribute.actionBarDivider = global::Football.Resource.Attribute.actionBarDivider;
+			global::AppIntro.Resource.Attribute.actionBarItemBackground = global::Football.Resource.Attribute.actionBarItemBackground;
+			global::AppIntro.Resource.Attribute.actionBarPopupTheme = global::Football.Resource.Attribute.actionBarPopupTheme;
+			global::AppIntro.Resource.Attribute.actionBarSize = global::Football.Resource.Attribute.actionBarSize;
+			global::AppIntro.Resource.Attribute.actionBarSplitStyle = global::Football.Resource.Attribute.actionBarSplitStyle;
+			global::AppIntro.Resource.Attribute.actionBarStyle = global::Football.Resource.Attribute.actionBarStyle;
+			global::AppIntro.Resource.Attribute.actionBarTabBarStyle = global::Football.Resource.Attribute.actionBarTabBarStyle;
+			global::AppIntro.Resource.Attribute.actionBarTabStyle = global::Football.Resource.Attribute.actionBarTabStyle;
+			global::AppIntro.Resource.Attribute.actionBarTabTextStyle = global::Football.Resource.Attribute.actionBarTabTextStyle;
+			global::AppIntro.Resource.Attribute.actionBarTheme = global::Football.Resource.Attribute.actionBarTheme;
+			global::AppIntro.Resource.Attribute.actionBarWidgetTheme = global::Football.Resource.Attribute.actionBarWidgetTheme;
+			global::AppIntro.Resource.Attribute.actionButtonStyle = global::Football.Resource.Attribute.actionButtonStyle;
+			global::AppIntro.Resource.Attribute.actionDropDownStyle = global::Football.Resource.Attribute.actionDropDownStyle;
+			global::AppIntro.Resource.Attribute.actionLayout = global::Football.Resource.Attribute.actionLayout;
+			global::AppIntro.Resource.Attribute.actionMenuTextAppearance = global::Football.Resource.Attribute.actionMenuTextAppearance;
+			global::AppIntro.Resource.Attribute.actionMenuTextColor = global::Football.Resource.Attribute.actionMenuTextColor;
+			global::AppIntro.Resource.Attribute.actionModeBackground = global::Football.Resource.Attribute.actionModeBackground;
+			global::AppIntro.Resource.Attribute.actionModeCloseButtonStyle = global::Football.Resource.Attribute.actionModeCloseButtonStyle;
+			global::AppIntro.Resource.Attribute.actionModeCloseDrawable = global::Football.Resource.Attribute.actionModeCloseDrawable;
+			global::AppIntro.Resource.Attribute.actionModeCopyDrawable = global::Football.Resource.Attribute.actionModeCopyDrawable;
+			global::AppIntro.Resource.Attribute.actionModeCutDrawable = global::Football.Resource.Attribute.actionModeCutDrawable;
+			global::AppIntro.Resource.Attribute.actionModeFindDrawable = global::Football.Resource.Attribute.actionModeFindDrawable;
+			global::AppIntro.Resource.Attribute.actionModePasteDrawable = global::Football.Resource.Attribute.actionModePasteDrawable;
+			global::AppIntro.Resource.Attribute.actionModePopupWindowStyle = global::Football.Resource.Attribute.actionModePopupWindowStyle;
+			global::AppIntro.Resource.Attribute.actionModeSelectAllDrawable = global::Football.Resource.Attribute.actionModeSelectAllDrawable;
+			global::AppIntro.Resource.Attribute.actionModeShareDrawable = global::Football.Resource.Attribute.actionModeShareDrawable;
+			global::AppIntro.Resource.Attribute.actionModeSplitBackground = global::Football.Resource.Attribute.actionModeSplitBackground;
+			global::AppIntro.Resource.Attribute.actionModeStyle = global::Football.Resource.Attribute.actionModeStyle;
+			global::AppIntro.Resource.Attribute.actionModeWebSearchDrawable = global::Football.Resource.Attribute.actionModeWebSearchDrawable;
+			global::AppIntro.Resource.Attribute.actionOverflowButtonStyle = global::Football.Resource.Attribute.actionOverflowButtonStyle;
+			global::AppIntro.Resource.Attribute.actionOverflowMenuStyle = global::Football.Resource.Attribute.actionOverflowMenuStyle;
+			global::AppIntro.Resource.Attribute.actionProviderClass = global::Football.Resource.Attribute.actionProviderClass;
+			global::AppIntro.Resource.Attribute.actionViewClass = global::Football.Resource.Attribute.actionViewClass;
+			global::AppIntro.Resource.Attribute.activityChooserViewStyle = global::Football.Resource.Attribute.activityChooserViewStyle;
+			global::AppIntro.Resource.Attribute.alertDialogButtonGroupStyle = global::Football.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::AppIntro.Resource.Attribute.alertDialogCenterButtons = global::Football.Resource.Attribute.alertDialogCenterButtons;
+			global::AppIntro.Resource.Attribute.alertDialogStyle = global::Football.Resource.Attribute.alertDialogStyle;
+			global::AppIntro.Resource.Attribute.alertDialogTheme = global::Football.Resource.Attribute.alertDialogTheme;
+			global::AppIntro.Resource.Attribute.allowStacking = global::Football.Resource.Attribute.allowStacking;
+			global::AppIntro.Resource.Attribute.alpha = global::Football.Resource.Attribute.alpha;
+			global::AppIntro.Resource.Attribute.arrowHeadLength = global::Football.Resource.Attribute.arrowHeadLength;
+			global::AppIntro.Resource.Attribute.arrowShaftLength = global::Football.Resource.Attribute.arrowShaftLength;
+			global::AppIntro.Resource.Attribute.autoCompleteTextViewStyle = global::Football.Resource.Attribute.autoCompleteTextViewStyle;
+			global::AppIntro.Resource.Attribute.background = global::Football.Resource.Attribute.background;
+			global::AppIntro.Resource.Attribute.backgroundSplit = global::Football.Resource.Attribute.backgroundSplit;
+			global::AppIntro.Resource.Attribute.backgroundStacked = global::Football.Resource.Attribute.backgroundStacked;
+			global::AppIntro.Resource.Attribute.backgroundTint = global::Football.Resource.Attribute.backgroundTint;
+			global::AppIntro.Resource.Attribute.backgroundTintMode = global::Football.Resource.Attribute.backgroundTintMode;
+			global::AppIntro.Resource.Attribute.barLength = global::Football.Resource.Attribute.barLength;
+			global::AppIntro.Resource.Attribute.borderlessButtonStyle = global::Football.Resource.Attribute.borderlessButtonStyle;
+			global::AppIntro.Resource.Attribute.buttonBarButtonStyle = global::Football.Resource.Attribute.buttonBarButtonStyle;
+			global::AppIntro.Resource.Attribute.buttonBarNegativeButtonStyle = global::Football.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::AppIntro.Resource.Attribute.buttonBarNeutralButtonStyle = global::Football.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::AppIntro.Resource.Attribute.buttonBarPositiveButtonStyle = global::Football.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::AppIntro.Resource.Attribute.buttonBarStyle = global::Football.Resource.Attribute.buttonBarStyle;
+			global::AppIntro.Resource.Attribute.buttonGravity = global::Football.Resource.Attribute.buttonGravity;
+			global::AppIntro.Resource.Attribute.buttonPanelSideLayout = global::Football.Resource.Attribute.buttonPanelSideLayout;
+			global::AppIntro.Resource.Attribute.buttonStyle = global::Football.Resource.Attribute.buttonStyle;
+			global::AppIntro.Resource.Attribute.buttonStyleSmall = global::Football.Resource.Attribute.buttonStyleSmall;
+			global::AppIntro.Resource.Attribute.buttonTint = global::Football.Resource.Attribute.buttonTint;
+			global::AppIntro.Resource.Attribute.buttonTintMode = global::Football.Resource.Attribute.buttonTintMode;
+			global::AppIntro.Resource.Attribute.checkboxStyle = global::Football.Resource.Attribute.checkboxStyle;
+			global::AppIntro.Resource.Attribute.checkedTextViewStyle = global::Football.Resource.Attribute.checkedTextViewStyle;
+			global::AppIntro.Resource.Attribute.closeIcon = global::Football.Resource.Attribute.closeIcon;
+			global::AppIntro.Resource.Attribute.closeItemLayout = global::Football.Resource.Attribute.closeItemLayout;
+			global::AppIntro.Resource.Attribute.collapseContentDescription = global::Football.Resource.Attribute.collapseContentDescription;
+			global::AppIntro.Resource.Attribute.collapseIcon = global::Football.Resource.Attribute.collapseIcon;
+			global::AppIntro.Resource.Attribute.color = global::Football.Resource.Attribute.color;
+			global::AppIntro.Resource.Attribute.colorAccent = global::Football.Resource.Attribute.colorAccent;
+			global::AppIntro.Resource.Attribute.colorBackgroundFloating = global::Football.Resource.Attribute.colorBackgroundFloating;
+			global::AppIntro.Resource.Attribute.colorButtonNormal = global::Football.Resource.Attribute.colorButtonNormal;
+			global::AppIntro.Resource.Attribute.colorControlActivated = global::Football.Resource.Attribute.colorControlActivated;
+			global::AppIntro.Resource.Attribute.colorControlHighlight = global::Football.Resource.Attribute.colorControlHighlight;
+			global::AppIntro.Resource.Attribute.colorControlNormal = global::Football.Resource.Attribute.colorControlNormal;
+			global::AppIntro.Resource.Attribute.colorPrimary = global::Football.Resource.Attribute.colorPrimary;
+			global::AppIntro.Resource.Attribute.colorPrimaryDark = global::Football.Resource.Attribute.colorPrimaryDark;
+			global::AppIntro.Resource.Attribute.colorSwitchThumbNormal = global::Football.Resource.Attribute.colorSwitchThumbNormal;
+			global::AppIntro.Resource.Attribute.commitIcon = global::Football.Resource.Attribute.commitIcon;
+			global::AppIntro.Resource.Attribute.contentInsetEnd = global::Football.Resource.Attribute.contentInsetEnd;
+			global::AppIntro.Resource.Attribute.contentInsetEndWithActions = global::Football.Resource.Attribute.contentInsetEndWithActions;
+			global::AppIntro.Resource.Attribute.contentInsetLeft = global::Football.Resource.Attribute.contentInsetLeft;
+			global::AppIntro.Resource.Attribute.contentInsetRight = global::Football.Resource.Attribute.contentInsetRight;
+			global::AppIntro.Resource.Attribute.contentInsetStart = global::Football.Resource.Attribute.contentInsetStart;
+			global::AppIntro.Resource.Attribute.contentInsetStartWithNavigation = global::Football.Resource.Attribute.contentInsetStartWithNavigation;
+			global::AppIntro.Resource.Attribute.controlBackground = global::Football.Resource.Attribute.controlBackground;
+			global::AppIntro.Resource.Attribute.customNavigationLayout = global::Football.Resource.Attribute.customNavigationLayout;
+			global::AppIntro.Resource.Attribute.defaultQueryHint = global::Football.Resource.Attribute.defaultQueryHint;
+			global::AppIntro.Resource.Attribute.dialogPreferredPadding = global::Football.Resource.Attribute.dialogPreferredPadding;
+			global::AppIntro.Resource.Attribute.dialogTheme = global::Football.Resource.Attribute.dialogTheme;
+			global::AppIntro.Resource.Attribute.displayOptions = global::Football.Resource.Attribute.displayOptions;
+			global::AppIntro.Resource.Attribute.divider = global::Football.Resource.Attribute.divider;
+			global::AppIntro.Resource.Attribute.dividerHorizontal = global::Football.Resource.Attribute.dividerHorizontal;
+			global::AppIntro.Resource.Attribute.dividerPadding = global::Football.Resource.Attribute.dividerPadding;
+			global::AppIntro.Resource.Attribute.dividerVertical = global::Football.Resource.Attribute.dividerVertical;
+			global::AppIntro.Resource.Attribute.drawableSize = global::Football.Resource.Attribute.drawableSize;
+			global::AppIntro.Resource.Attribute.drawerArrowStyle = global::Football.Resource.Attribute.drawerArrowStyle;
+			global::AppIntro.Resource.Attribute.dropDownListViewStyle = global::Football.Resource.Attribute.dropDownListViewStyle;
+			global::AppIntro.Resource.Attribute.dropdownListPreferredItemHeight = global::Football.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::AppIntro.Resource.Attribute.editTextBackground = global::Football.Resource.Attribute.editTextBackground;
+			global::AppIntro.Resource.Attribute.editTextColor = global::Football.Resource.Attribute.editTextColor;
+			global::AppIntro.Resource.Attribute.editTextStyle = global::Football.Resource.Attribute.editTextStyle;
+			global::AppIntro.Resource.Attribute.elevation = global::Football.Resource.Attribute.elevation;
+			global::AppIntro.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Football.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::AppIntro.Resource.Attribute.gapBetweenBars = global::Football.Resource.Attribute.gapBetweenBars;
+			global::AppIntro.Resource.Attribute.goIcon = global::Football.Resource.Attribute.goIcon;
+			global::AppIntro.Resource.Attribute.height = global::Football.Resource.Attribute.height;
+			global::AppIntro.Resource.Attribute.hideOnContentScroll = global::Football.Resource.Attribute.hideOnContentScroll;
+			global::AppIntro.Resource.Attribute.homeAsUpIndicator = global::Football.Resource.Attribute.homeAsUpIndicator;
+			global::AppIntro.Resource.Attribute.homeLayout = global::Football.Resource.Attribute.homeLayout;
+			global::AppIntro.Resource.Attribute.icon = global::Football.Resource.Attribute.icon;
+			global::AppIntro.Resource.Attribute.iconifiedByDefault = global::Football.Resource.Attribute.iconifiedByDefault;
+			global::AppIntro.Resource.Attribute.imageButtonStyle = global::Football.Resource.Attribute.imageButtonStyle;
+			global::AppIntro.Resource.Attribute.indeterminateProgressStyle = global::Football.Resource.Attribute.indeterminateProgressStyle;
+			global::AppIntro.Resource.Attribute.initialActivityCount = global::Football.Resource.Attribute.initialActivityCount;
+			global::AppIntro.Resource.Attribute.isLightTheme = global::Football.Resource.Attribute.isLightTheme;
+			global::AppIntro.Resource.Attribute.itemPadding = global::Football.Resource.Attribute.itemPadding;
+			global::AppIntro.Resource.Attribute.layout = global::Football.Resource.Attribute.layout;
+			global::AppIntro.Resource.Attribute.listChoiceBackgroundIndicator = global::Football.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::AppIntro.Resource.Attribute.listDividerAlertDialog = global::Football.Resource.Attribute.listDividerAlertDialog;
+			global::AppIntro.Resource.Attribute.listItemLayout = global::Football.Resource.Attribute.listItemLayout;
+			global::AppIntro.Resource.Attribute.listLayout = global::Football.Resource.Attribute.listLayout;
+			global::AppIntro.Resource.Attribute.listMenuViewStyle = global::Football.Resource.Attribute.listMenuViewStyle;
+			global::AppIntro.Resource.Attribute.listPopupWindowStyle = global::Football.Resource.Attribute.listPopupWindowStyle;
+			global::AppIntro.Resource.Attribute.listPreferredItemHeight = global::Football.Resource.Attribute.listPreferredItemHeight;
+			global::AppIntro.Resource.Attribute.listPreferredItemHeightLarge = global::Football.Resource.Attribute.listPreferredItemHeightLarge;
+			global::AppIntro.Resource.Attribute.listPreferredItemHeightSmall = global::Football.Resource.Attribute.listPreferredItemHeightSmall;
+			global::AppIntro.Resource.Attribute.listPreferredItemPaddingLeft = global::Football.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::AppIntro.Resource.Attribute.listPreferredItemPaddingRight = global::Football.Resource.Attribute.listPreferredItemPaddingRight;
+			global::AppIntro.Resource.Attribute.logo = global::Football.Resource.Attribute.logo;
+			global::AppIntro.Resource.Attribute.logoDescription = global::Football.Resource.Attribute.logoDescription;
+			global::AppIntro.Resource.Attribute.maxButtonHeight = global::Football.Resource.Attribute.maxButtonHeight;
+			global::AppIntro.Resource.Attribute.measureWithLargestChild = global::Football.Resource.Attribute.measureWithLargestChild;
+			global::AppIntro.Resource.Attribute.multiChoiceItemLayout = global::Football.Resource.Attribute.multiChoiceItemLayout;
+			global::AppIntro.Resource.Attribute.navigationContentDescription = global::Football.Resource.Attribute.navigationContentDescription;
+			global::AppIntro.Resource.Attribute.navigationIcon = global::Football.Resource.Attribute.navigationIcon;
+			global::AppIntro.Resource.Attribute.navigationMode = global::Football.Resource.Attribute.navigationMode;
+			global::AppIntro.Resource.Attribute.overlapAnchor = global::Football.Resource.Attribute.overlapAnchor;
+			global::AppIntro.Resource.Attribute.paddingEnd = global::Football.Resource.Attribute.paddingEnd;
+			global::AppIntro.Resource.Attribute.paddingStart = global::Football.Resource.Attribute.paddingStart;
+			global::AppIntro.Resource.Attribute.panelBackground = global::Football.Resource.Attribute.panelBackground;
+			global::AppIntro.Resource.Attribute.panelMenuListTheme = global::Football.Resource.Attribute.panelMenuListTheme;
+			global::AppIntro.Resource.Attribute.panelMenuListWidth = global::Football.Resource.Attribute.panelMenuListWidth;
+			global::AppIntro.Resource.Attribute.popupMenuStyle = global::Football.Resource.Attribute.popupMenuStyle;
+			global::AppIntro.Resource.Attribute.popupTheme = global::Football.Resource.Attribute.popupTheme;
+			global::AppIntro.Resource.Attribute.popupWindowStyle = global::Football.Resource.Attribute.popupWindowStyle;
+			global::AppIntro.Resource.Attribute.preserveIconSpacing = global::Football.Resource.Attribute.preserveIconSpacing;
+			global::AppIntro.Resource.Attribute.progressBarPadding = global::Football.Resource.Attribute.progressBarPadding;
+			global::AppIntro.Resource.Attribute.progressBarStyle = global::Football.Resource.Attribute.progressBarStyle;
+			global::AppIntro.Resource.Attribute.queryBackground = global::Football.Resource.Attribute.queryBackground;
+			global::AppIntro.Resource.Attribute.queryHint = global::Football.Resource.Attribute.queryHint;
+			global::AppIntro.Resource.Attribute.radioButtonStyle = global::Football.Resource.Attribute.radioButtonStyle;
+			global::AppIntro.Resource.Attribute.ratingBarStyle = global::Football.Resource.Attribute.ratingBarStyle;
+			global::AppIntro.Resource.Attribute.ratingBarStyleIndicator = global::Football.Resource.Attribute.ratingBarStyleIndicator;
+			global::AppIntro.Resource.Attribute.ratingBarStyleSmall = global::Football.Resource.Attribute.ratingBarStyleSmall;
+			global::AppIntro.Resource.Attribute.searchHintIcon = global::Football.Resource.Attribute.searchHintIcon;
+			global::AppIntro.Resource.Attribute.searchIcon = global::Football.Resource.Attribute.searchIcon;
+			global::AppIntro.Resource.Attribute.searchViewStyle = global::Football.Resource.Attribute.searchViewStyle;
+			global::AppIntro.Resource.Attribute.seekBarStyle = global::Football.Resource.Attribute.seekBarStyle;
+			global::AppIntro.Resource.Attribute.selectableItemBackground = global::Football.Resource.Attribute.selectableItemBackground;
+			global::AppIntro.Resource.Attribute.selectableItemBackgroundBorderless = global::Football.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::AppIntro.Resource.Attribute.showAsAction = global::Football.Resource.Attribute.showAsAction;
+			global::AppIntro.Resource.Attribute.showDividers = global::Football.Resource.Attribute.showDividers;
+			global::AppIntro.Resource.Attribute.showText = global::Football.Resource.Attribute.showText;
+			global::AppIntro.Resource.Attribute.singleChoiceItemLayout = global::Football.Resource.Attribute.singleChoiceItemLayout;
+			global::AppIntro.Resource.Attribute.spinBars = global::Football.Resource.Attribute.spinBars;
+			global::AppIntro.Resource.Attribute.spinnerDropDownItemStyle = global::Football.Resource.Attribute.spinnerDropDownItemStyle;
+			global::AppIntro.Resource.Attribute.spinnerStyle = global::Football.Resource.Attribute.spinnerStyle;
+			global::AppIntro.Resource.Attribute.splitTrack = global::Football.Resource.Attribute.splitTrack;
+			global::AppIntro.Resource.Attribute.srcCompat = global::Football.Resource.Attribute.srcCompat;
+			global::AppIntro.Resource.Attribute.state_above_anchor = global::Football.Resource.Attribute.state_above_anchor;
+			global::AppIntro.Resource.Attribute.subMenuArrow = global::Football.Resource.Attribute.subMenuArrow;
+			global::AppIntro.Resource.Attribute.submitBackground = global::Football.Resource.Attribute.submitBackground;
+			global::AppIntro.Resource.Attribute.subtitle = global::Football.Resource.Attribute.subtitle;
+			global::AppIntro.Resource.Attribute.subtitleTextAppearance = global::Football.Resource.Attribute.subtitleTextAppearance;
+			global::AppIntro.Resource.Attribute.subtitleTextColor = global::Football.Resource.Attribute.subtitleTextColor;
+			global::AppIntro.Resource.Attribute.subtitleTextStyle = global::Football.Resource.Attribute.subtitleTextStyle;
+			global::AppIntro.Resource.Attribute.suggestionRowLayout = global::Football.Resource.Attribute.suggestionRowLayout;
+			global::AppIntro.Resource.Attribute.switchMinWidth = global::Football.Resource.Attribute.switchMinWidth;
+			global::AppIntro.Resource.Attribute.switchPadding = global::Football.Resource.Attribute.switchPadding;
+			global::AppIntro.Resource.Attribute.switchStyle = global::Football.Resource.Attribute.switchStyle;
+			global::AppIntro.Resource.Attribute.switchTextAppearance = global::Football.Resource.Attribute.switchTextAppearance;
+			global::AppIntro.Resource.Attribute.textAllCaps = global::Football.Resource.Attribute.textAllCaps;
+			global::AppIntro.Resource.Attribute.textAppearanceLargePopupMenu = global::Football.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::AppIntro.Resource.Attribute.textAppearanceListItem = global::Football.Resource.Attribute.textAppearanceListItem;
+			global::AppIntro.Resource.Attribute.textAppearanceListItemSmall = global::Football.Resource.Attribute.textAppearanceListItemSmall;
+			global::AppIntro.Resource.Attribute.textAppearancePopupMenuHeader = global::Football.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::AppIntro.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Football.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::AppIntro.Resource.Attribute.textAppearanceSearchResultTitle = global::Football.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::AppIntro.Resource.Attribute.textAppearanceSmallPopupMenu = global::Football.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::AppIntro.Resource.Attribute.textColorAlertDialogListItem = global::Football.Resource.Attribute.textColorAlertDialogListItem;
+			global::AppIntro.Resource.Attribute.textColorSearchUrl = global::Football.Resource.Attribute.textColorSearchUrl;
+			global::AppIntro.Resource.Attribute.theme = global::Football.Resource.Attribute.theme;
+			global::AppIntro.Resource.Attribute.thickness = global::Football.Resource.Attribute.thickness;
+			global::AppIntro.Resource.Attribute.thumbTextPadding = global::Football.Resource.Attribute.thumbTextPadding;
+			global::AppIntro.Resource.Attribute.thumbTint = global::Football.Resource.Attribute.thumbTint;
+			global::AppIntro.Resource.Attribute.thumbTintMode = global::Football.Resource.Attribute.thumbTintMode;
+			global::AppIntro.Resource.Attribute.tickMark = global::Football.Resource.Attribute.tickMark;
+			global::AppIntro.Resource.Attribute.tickMarkTint = global::Football.Resource.Attribute.tickMarkTint;
+			global::AppIntro.Resource.Attribute.tickMarkTintMode = global::Football.Resource.Attribute.tickMarkTintMode;
+			global::AppIntro.Resource.Attribute.title = global::Football.Resource.Attribute.title;
+			global::AppIntro.Resource.Attribute.titleMargin = global::Football.Resource.Attribute.titleMargin;
+			global::AppIntro.Resource.Attribute.titleMarginBottom = global::Football.Resource.Attribute.titleMarginBottom;
+			global::AppIntro.Resource.Attribute.titleMarginEnd = global::Football.Resource.Attribute.titleMarginEnd;
+			global::AppIntro.Resource.Attribute.titleMarginStart = global::Football.Resource.Attribute.titleMarginStart;
+			global::AppIntro.Resource.Attribute.titleMarginTop = global::Football.Resource.Attribute.titleMarginTop;
+			global::AppIntro.Resource.Attribute.titleMargins = global::Football.Resource.Attribute.titleMargins;
+			global::AppIntro.Resource.Attribute.titleTextAppearance = global::Football.Resource.Attribute.titleTextAppearance;
+			global::AppIntro.Resource.Attribute.titleTextColor = global::Football.Resource.Attribute.titleTextColor;
+			global::AppIntro.Resource.Attribute.titleTextStyle = global::Football.Resource.Attribute.titleTextStyle;
+			global::AppIntro.Resource.Attribute.toolbarNavigationButtonStyle = global::Football.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::AppIntro.Resource.Attribute.toolbarStyle = global::Football.Resource.Attribute.toolbarStyle;
+			global::AppIntro.Resource.Attribute.track = global::Football.Resource.Attribute.track;
+			global::AppIntro.Resource.Attribute.trackTint = global::Football.Resource.Attribute.trackTint;
+			global::AppIntro.Resource.Attribute.trackTintMode = global::Football.Resource.Attribute.trackTintMode;
+			global::AppIntro.Resource.Attribute.voiceIcon = global::Football.Resource.Attribute.voiceIcon;
+			global::AppIntro.Resource.Attribute.windowActionBar = global::Football.Resource.Attribute.windowActionBar;
+			global::AppIntro.Resource.Attribute.windowActionBarOverlay = global::Football.Resource.Attribute.windowActionBarOverlay;
+			global::AppIntro.Resource.Attribute.windowActionModeOverlay = global::Football.Resource.Attribute.windowActionModeOverlay;
+			global::AppIntro.Resource.Attribute.windowFixedHeightMajor = global::Football.Resource.Attribute.windowFixedHeightMajor;
+			global::AppIntro.Resource.Attribute.windowFixedHeightMinor = global::Football.Resource.Attribute.windowFixedHeightMinor;
+			global::AppIntro.Resource.Attribute.windowFixedWidthMajor = global::Football.Resource.Attribute.windowFixedWidthMajor;
+			global::AppIntro.Resource.Attribute.windowFixedWidthMinor = global::Football.Resource.Attribute.windowFixedWidthMinor;
+			global::AppIntro.Resource.Attribute.windowMinWidthMajor = global::Football.Resource.Attribute.windowMinWidthMajor;
+			global::AppIntro.Resource.Attribute.windowMinWidthMinor = global::Football.Resource.Attribute.windowMinWidthMinor;
+			global::AppIntro.Resource.Attribute.windowNoTitle = global::Football.Resource.Attribute.windowNoTitle;
+			global::AppIntro.Resource.Boolean.abc_action_bar_embed_tabs = global::Football.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::AppIntro.Resource.Boolean.abc_allow_stacked_button_bar = global::Football.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::AppIntro.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Football.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::AppIntro.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::Football.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::AppIntro.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::Football.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::AppIntro.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Football.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::AppIntro.Resource.Color.abc_background_cache_hint_selector_material_light = global::Football.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::AppIntro.Resource.Color.abc_btn_colored_borderless_text_material = global::Football.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::AppIntro.Resource.Color.abc_color_highlight_material = global::Football.Resource.Color.abc_color_highlight_material;
+			global::AppIntro.Resource.Color.abc_input_method_navigation_guard = global::Football.Resource.Color.abc_input_method_navigation_guard;
+			global::AppIntro.Resource.Color.abc_primary_text_disable_only_material_dark = global::Football.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::AppIntro.Resource.Color.abc_primary_text_disable_only_material_light = global::Football.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::AppIntro.Resource.Color.abc_primary_text_material_dark = global::Football.Resource.Color.abc_primary_text_material_dark;
+			global::AppIntro.Resource.Color.abc_primary_text_material_light = global::Football.Resource.Color.abc_primary_text_material_light;
+			global::AppIntro.Resource.Color.abc_search_url_text = global::Football.Resource.Color.abc_search_url_text;
+			global::AppIntro.Resource.Color.abc_search_url_text_normal = global::Football.Resource.Color.abc_search_url_text_normal;
+			global::AppIntro.Resource.Color.abc_search_url_text_pressed = global::Football.Resource.Color.abc_search_url_text_pressed;
+			global::AppIntro.Resource.Color.abc_search_url_text_selected = global::Football.Resource.Color.abc_search_url_text_selected;
+			global::AppIntro.Resource.Color.abc_secondary_text_material_dark = global::Football.Resource.Color.abc_secondary_text_material_dark;
+			global::AppIntro.Resource.Color.abc_secondary_text_material_light = global::Football.Resource.Color.abc_secondary_text_material_light;
+			global::AppIntro.Resource.Color.abc_tint_btn_checkable = global::Football.Resource.Color.abc_tint_btn_checkable;
+			global::AppIntro.Resource.Color.abc_tint_default = global::Football.Resource.Color.abc_tint_default;
+			global::AppIntro.Resource.Color.abc_tint_edittext = global::Football.Resource.Color.abc_tint_edittext;
+			global::AppIntro.Resource.Color.abc_tint_seek_thumb = global::Football.Resource.Color.abc_tint_seek_thumb;
+			global::AppIntro.Resource.Color.abc_tint_spinner = global::Football.Resource.Color.abc_tint_spinner;
+			global::AppIntro.Resource.Color.abc_tint_switch_thumb = global::Football.Resource.Color.abc_tint_switch_thumb;
+			global::AppIntro.Resource.Color.abc_tint_switch_track = global::Football.Resource.Color.abc_tint_switch_track;
+			global::AppIntro.Resource.Color.accent_material_dark = global::Football.Resource.Color.accent_material_dark;
+			global::AppIntro.Resource.Color.accent_material_light = global::Football.Resource.Color.accent_material_light;
+			global::AppIntro.Resource.Color.background_floating_material_dark = global::Football.Resource.Color.background_floating_material_dark;
+			global::AppIntro.Resource.Color.background_floating_material_light = global::Football.Resource.Color.background_floating_material_light;
+			global::AppIntro.Resource.Color.background_material_dark = global::Football.Resource.Color.background_material_dark;
+			global::AppIntro.Resource.Color.background_material_light = global::Football.Resource.Color.background_material_light;
+			global::AppIntro.Resource.Color.bright_foreground_disabled_material_dark = global::Football.Resource.Color.bright_foreground_disabled_material_dark;
+			global::AppIntro.Resource.Color.bright_foreground_disabled_material_light = global::Football.Resource.Color.bright_foreground_disabled_material_light;
+			global::AppIntro.Resource.Color.bright_foreground_inverse_material_dark = global::Football.Resource.Color.bright_foreground_inverse_material_dark;
+			global::AppIntro.Resource.Color.bright_foreground_inverse_material_light = global::Football.Resource.Color.bright_foreground_inverse_material_light;
+			global::AppIntro.Resource.Color.bright_foreground_material_dark = global::Football.Resource.Color.bright_foreground_material_dark;
+			global::AppIntro.Resource.Color.bright_foreground_material_light = global::Football.Resource.Color.bright_foreground_material_light;
+			global::AppIntro.Resource.Color.button_material_dark = global::Football.Resource.Color.button_material_dark;
+			global::AppIntro.Resource.Color.button_material_light = global::Football.Resource.Color.button_material_light;
+			global::AppIntro.Resource.Color.dim_foreground_disabled_material_dark = global::Football.Resource.Color.dim_foreground_disabled_material_dark;
+			global::AppIntro.Resource.Color.dim_foreground_disabled_material_light = global::Football.Resource.Color.dim_foreground_disabled_material_light;
+			global::AppIntro.Resource.Color.dim_foreground_material_dark = global::Football.Resource.Color.dim_foreground_material_dark;
+			global::AppIntro.Resource.Color.dim_foreground_material_light = global::Football.Resource.Color.dim_foreground_material_light;
+			global::AppIntro.Resource.Color.foreground_material_dark = global::Football.Resource.Color.foreground_material_dark;
+			global::AppIntro.Resource.Color.foreground_material_light = global::Football.Resource.Color.foreground_material_light;
+			global::AppIntro.Resource.Color.highlighted_text_material_dark = global::Football.Resource.Color.highlighted_text_material_dark;
+			global::AppIntro.Resource.Color.highlighted_text_material_light = global::Football.Resource.Color.highlighted_text_material_light;
+			//global::AppIntro.Resource.Color.hint_foreground_material_dark = global::Football.Resource.Color.hint_foreground_material_dark;
+			//global::AppIntro.Resource.Color.hint_foreground_material_light = global::Football.Resource.Color.hint_foreground_material_light;
+			global::AppIntro.Resource.Color.material_blue_grey_800 = global::Football.Resource.Color.material_blue_grey_800;
+			global::AppIntro.Resource.Color.material_blue_grey_900 = global::Football.Resource.Color.material_blue_grey_900;
+			global::AppIntro.Resource.Color.material_blue_grey_950 = global::Football.Resource.Color.material_blue_grey_950;
+			global::AppIntro.Resource.Color.material_deep_teal_200 = global::Football.Resource.Color.material_deep_teal_200;
+			global::AppIntro.Resource.Color.material_deep_teal_500 = global::Football.Resource.Color.material_deep_teal_500;
+			global::AppIntro.Resource.Color.material_grey_100 = global::Football.Resource.Color.material_grey_100;
+			global::AppIntro.Resource.Color.material_grey_300 = global::Football.Resource.Color.material_grey_300;
+			global::AppIntro.Resource.Color.material_grey_50 = global::Football.Resource.Color.material_grey_50;
+			global::AppIntro.Resource.Color.material_grey_600 = global::Football.Resource.Color.material_grey_600;
+			global::AppIntro.Resource.Color.material_grey_800 = global::Football.Resource.Color.material_grey_800;
+			global::AppIntro.Resource.Color.material_grey_850 = global::Football.Resource.Color.material_grey_850;
+			global::AppIntro.Resource.Color.material_grey_900 = global::Football.Resource.Color.material_grey_900;
+			global::AppIntro.Resource.Color.primary_dark_material_dark = global::Football.Resource.Color.primary_dark_material_dark;
+			global::AppIntro.Resource.Color.primary_dark_material_light = global::Football.Resource.Color.primary_dark_material_light;
+			global::AppIntro.Resource.Color.primary_material_dark = global::Football.Resource.Color.primary_material_dark;
+			global::AppIntro.Resource.Color.primary_material_light = global::Football.Resource.Color.primary_material_light;
+			global::AppIntro.Resource.Color.primary_text_default_material_dark = global::Football.Resource.Color.primary_text_default_material_dark;
+			global::AppIntro.Resource.Color.primary_text_default_material_light = global::Football.Resource.Color.primary_text_default_material_light;
+			global::AppIntro.Resource.Color.primary_text_disabled_material_dark = global::Football.Resource.Color.primary_text_disabled_material_dark;
+			global::AppIntro.Resource.Color.primary_text_disabled_material_light = global::Football.Resource.Color.primary_text_disabled_material_light;
+			global::AppIntro.Resource.Color.ripple_material_dark = global::Football.Resource.Color.ripple_material_dark;
+			global::AppIntro.Resource.Color.ripple_material_light = global::Football.Resource.Color.ripple_material_light;
+			global::AppIntro.Resource.Color.secondary_text_default_material_dark = global::Football.Resource.Color.secondary_text_default_material_dark;
+			global::AppIntro.Resource.Color.secondary_text_default_material_light = global::Football.Resource.Color.secondary_text_default_material_light;
+			global::AppIntro.Resource.Color.secondary_text_disabled_material_dark = global::Football.Resource.Color.secondary_text_disabled_material_dark;
+			global::AppIntro.Resource.Color.secondary_text_disabled_material_light = global::Football.Resource.Color.secondary_text_disabled_material_light;
+			global::AppIntro.Resource.Color.switch_thumb_disabled_material_dark = global::Football.Resource.Color.switch_thumb_disabled_material_dark;
+			global::AppIntro.Resource.Color.switch_thumb_disabled_material_light = global::Football.Resource.Color.switch_thumb_disabled_material_light;
+			global::AppIntro.Resource.Color.switch_thumb_material_dark = global::Football.Resource.Color.switch_thumb_material_dark;
+			global::AppIntro.Resource.Color.switch_thumb_material_light = global::Football.Resource.Color.switch_thumb_material_light;
+			global::AppIntro.Resource.Color.switch_thumb_normal_material_dark = global::Football.Resource.Color.switch_thumb_normal_material_dark;
+			global::AppIntro.Resource.Color.switch_thumb_normal_material_light = global::Football.Resource.Color.switch_thumb_normal_material_light;
+			global::AppIntro.Resource.Dimension.abc_action_bar_content_inset_material = global::Football.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Football.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::AppIntro.Resource.Dimension.abc_action_bar_default_height_material = global::Football.Resource.Dimension.abc_action_bar_default_height_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Football.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Football.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_elevation_material = global::Football.Resource.Dimension.abc_action_bar_elevation_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Football.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Football.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Football.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_progress_bar_size = global::Football.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::AppIntro.Resource.Dimension.abc_action_bar_stacked_max_height = global::Football.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::AppIntro.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Football.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::AppIntro.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Football.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::AppIntro.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Football.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::AppIntro.Resource.Dimension.abc_action_button_min_height_material = global::Football.Resource.Dimension.abc_action_button_min_height_material;
+			global::AppIntro.Resource.Dimension.abc_action_button_min_width_material = global::Football.Resource.Dimension.abc_action_button_min_width_material;
+			global::AppIntro.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Football.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::AppIntro.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Football.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::AppIntro.Resource.Dimension.abc_button_inset_horizontal_material = global::Football.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::AppIntro.Resource.Dimension.abc_button_inset_vertical_material = global::Football.Resource.Dimension.abc_button_inset_vertical_material;
+			global::AppIntro.Resource.Dimension.abc_button_padding_horizontal_material = global::Football.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::AppIntro.Resource.Dimension.abc_button_padding_vertical_material = global::Football.Resource.Dimension.abc_button_padding_vertical_material;
+			global::AppIntro.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Football.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::AppIntro.Resource.Dimension.abc_config_prefDialogWidth = global::Football.Resource.Dimension.abc_config_prefDialogWidth;
+			global::AppIntro.Resource.Dimension.abc_control_corner_material = global::Football.Resource.Dimension.abc_control_corner_material;
+			global::AppIntro.Resource.Dimension.abc_control_inset_material = global::Football.Resource.Dimension.abc_control_inset_material;
+			global::AppIntro.Resource.Dimension.abc_control_padding_material = global::Football.Resource.Dimension.abc_control_padding_material;
+			global::AppIntro.Resource.Dimension.abc_dialog_fixed_height_major = global::Football.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::AppIntro.Resource.Dimension.abc_dialog_fixed_height_minor = global::Football.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::AppIntro.Resource.Dimension.abc_dialog_fixed_width_major = global::Football.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::AppIntro.Resource.Dimension.abc_dialog_fixed_width_minor = global::Football.Resource.Dimension.abc_dialog_fixed_width_minor;
+			//global::AppIntro.Resource.Dimension.abc_dialog_list_padding_vertical_material = global::Football.Resource.Dimension.abc_dialog_list_padding_vertical_material;
+			global::AppIntro.Resource.Dimension.abc_dialog_min_width_major = global::Football.Resource.Dimension.abc_dialog_min_width_major;
+			global::AppIntro.Resource.Dimension.abc_dialog_min_width_minor = global::Football.Resource.Dimension.abc_dialog_min_width_minor;
+			global::AppIntro.Resource.Dimension.abc_dialog_padding_material = global::Football.Resource.Dimension.abc_dialog_padding_material;
+			global::AppIntro.Resource.Dimension.abc_dialog_padding_top_material = global::Football.Resource.Dimension.abc_dialog_padding_top_material;
+			global::AppIntro.Resource.Dimension.abc_disabled_alpha_material_dark = global::Football.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::AppIntro.Resource.Dimension.abc_disabled_alpha_material_light = global::Football.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::AppIntro.Resource.Dimension.abc_dropdownitem_icon_width = global::Football.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::AppIntro.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Football.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::AppIntro.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Football.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::AppIntro.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Football.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::AppIntro.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Football.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::AppIntro.Resource.Dimension.abc_edit_text_inset_top_material = global::Football.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::AppIntro.Resource.Dimension.abc_floating_window_z = global::Football.Resource.Dimension.abc_floating_window_z;
+			global::AppIntro.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Football.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::AppIntro.Resource.Dimension.abc_panel_menu_list_width = global::Football.Resource.Dimension.abc_panel_menu_list_width;
+			global::AppIntro.Resource.Dimension.abc_progress_bar_height_material = global::Football.Resource.Dimension.abc_progress_bar_height_material;
+			global::AppIntro.Resource.Dimension.abc_search_view_preferred_height = global::Football.Resource.Dimension.abc_search_view_preferred_height;
+			global::AppIntro.Resource.Dimension.abc_search_view_preferred_width = global::Football.Resource.Dimension.abc_search_view_preferred_width;
+			global::AppIntro.Resource.Dimension.abc_seekbar_track_background_height_material = global::Football.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::AppIntro.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Football.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::AppIntro.Resource.Dimension.abc_select_dialog_padding_start_material = global::Football.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::AppIntro.Resource.Dimension.abc_switch_padding = global::Football.Resource.Dimension.abc_switch_padding;
+			global::AppIntro.Resource.Dimension.abc_text_size_body_1_material = global::Football.Resource.Dimension.abc_text_size_body_1_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_body_2_material = global::Football.Resource.Dimension.abc_text_size_body_2_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_button_material = global::Football.Resource.Dimension.abc_text_size_button_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_caption_material = global::Football.Resource.Dimension.abc_text_size_caption_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_display_1_material = global::Football.Resource.Dimension.abc_text_size_display_1_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_display_2_material = global::Football.Resource.Dimension.abc_text_size_display_2_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_display_3_material = global::Football.Resource.Dimension.abc_text_size_display_3_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_display_4_material = global::Football.Resource.Dimension.abc_text_size_display_4_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_headline_material = global::Football.Resource.Dimension.abc_text_size_headline_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_large_material = global::Football.Resource.Dimension.abc_text_size_large_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_medium_material = global::Football.Resource.Dimension.abc_text_size_medium_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_menu_header_material = global::Football.Resource.Dimension.abc_text_size_menu_header_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_menu_material = global::Football.Resource.Dimension.abc_text_size_menu_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_small_material = global::Football.Resource.Dimension.abc_text_size_small_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_subhead_material = global::Football.Resource.Dimension.abc_text_size_subhead_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Football.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::AppIntro.Resource.Dimension.abc_text_size_title_material = global::Football.Resource.Dimension.abc_text_size_title_material;
+			global::AppIntro.Resource.Dimension.abc_text_size_title_material_toolbar = global::Football.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::AppIntro.Resource.Dimension.appIntro2BottomBarHeight = global::Football.Resource.Dimension.appIntro2BottomBarHeight;
+			global::AppIntro.Resource.Dimension.appIntroBottomBarHeight = global::Football.Resource.Dimension.appIntroBottomBarHeight;
+			global::AppIntro.Resource.Dimension.appIntroDefaultPaddingBottom = global::Football.Resource.Dimension.appIntroDefaultPaddingBottom;
+			global::AppIntro.Resource.Dimension.appIntroDefaultPaddingBottomIntro1 = global::Football.Resource.Dimension.appIntroDefaultPaddingBottomIntro1;
+			global::AppIntro.Resource.Dimension.appIntroDefaultPaddingBottomIntro2 = global::Football.Resource.Dimension.appIntroDefaultPaddingBottomIntro2;
+			global::AppIntro.Resource.Dimension.appIntroDefaultPaddingLeft = global::Football.Resource.Dimension.appIntroDefaultPaddingLeft;
+			global::AppIntro.Resource.Dimension.appIntroDefaultPaddingRight = global::Football.Resource.Dimension.appIntroDefaultPaddingRight;
+			global::AppIntro.Resource.Dimension.appIntroDefaultPaddingTop = global::Football.Resource.Dimension.appIntroDefaultPaddingTop;
+			global::AppIntro.Resource.Dimension.appIntroHeadingTextSize = global::Football.Resource.Dimension.appIntroHeadingTextSize;
+			global::AppIntro.Resource.Dimension.disabled_alpha_material_dark = global::Football.Resource.Dimension.disabled_alpha_material_dark;
+			global::AppIntro.Resource.Dimension.disabled_alpha_material_light = global::Football.Resource.Dimension.disabled_alpha_material_light;
+			global::AppIntro.Resource.Dimension.highlight_alpha_material_colored = global::Football.Resource.Dimension.highlight_alpha_material_colored;
+			global::AppIntro.Resource.Dimension.highlight_alpha_material_dark = global::Football.Resource.Dimension.highlight_alpha_material_dark;
+			global::AppIntro.Resource.Dimension.highlight_alpha_material_light = global::Football.Resource.Dimension.highlight_alpha_material_light;
+			global::AppIntro.Resource.Dimension.notification_large_icon_height = global::Football.Resource.Dimension.notification_large_icon_height;
+			global::AppIntro.Resource.Dimension.notification_large_icon_width = global::Football.Resource.Dimension.notification_large_icon_width;
+			global::AppIntro.Resource.Dimension.notification_subtext_size = global::Football.Resource.Dimension.notification_subtext_size;
+			global::AppIntro.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Football.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_action_bar_item_background_material = global::Football.Resource.Drawable.abc_action_bar_item_background_material;
+			global::AppIntro.Resource.Drawable.abc_btn_borderless_material = global::Football.Resource.Drawable.abc_btn_borderless_material;
+			global::AppIntro.Resource.Drawable.abc_btn_check_material = global::Football.Resource.Drawable.abc_btn_check_material;
+			global::AppIntro.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Football.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::AppIntro.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Football.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::AppIntro.Resource.Drawable.abc_btn_colored_material = global::Football.Resource.Drawable.abc_btn_colored_material;
+			global::AppIntro.Resource.Drawable.abc_btn_default_mtrl_shape = global::Football.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::AppIntro.Resource.Drawable.abc_btn_radio_material = global::Football.Resource.Drawable.abc_btn_radio_material;
+			global::AppIntro.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Football.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::AppIntro.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Football.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::AppIntro.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Football.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::AppIntro.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Football.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::AppIntro.Resource.Drawable.abc_cab_background_internal_bg = global::Football.Resource.Drawable.abc_cab_background_internal_bg;
+			global::AppIntro.Resource.Drawable.abc_cab_background_top_material = global::Football.Resource.Drawable.abc_cab_background_top_material;
+			global::AppIntro.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Football.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_control_background_material = global::Football.Resource.Drawable.abc_control_background_material;
+			global::AppIntro.Resource.Drawable.abc_dialog_material_background = global::Football.Resource.Drawable.abc_dialog_material_background;
+			global::AppIntro.Resource.Drawable.abc_edit_text_material = global::Football.Resource.Drawable.abc_edit_text_material;
+			global::AppIntro.Resource.Drawable.abc_ic_ab_back_material = global::Football.Resource.Drawable.abc_ic_ab_back_material;
+			global::AppIntro.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Football.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::AppIntro.Resource.Drawable.abc_ic_clear_material = global::Football.Resource.Drawable.abc_ic_clear_material;
+			global::AppIntro.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Football.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_ic_go_search_api_material = global::Football.Resource.Drawable.abc_ic_go_search_api_material;
+			global::AppIntro.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Football.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::AppIntro.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Football.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_ic_menu_overflow_material = global::Football.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::AppIntro.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Football.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::AppIntro.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Football.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Football.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_ic_search_api_material = global::Football.Resource.Drawable.abc_ic_search_api_material;
+			global::AppIntro.Resource.Drawable.abc_ic_star_black_16dp = global::Football.Resource.Drawable.abc_ic_star_black_16dp;
+			global::AppIntro.Resource.Drawable.abc_ic_star_black_36dp = global::Football.Resource.Drawable.abc_ic_star_black_36dp;
+			global::AppIntro.Resource.Drawable.abc_ic_star_black_48dp = global::Football.Resource.Drawable.abc_ic_star_black_48dp;
+			global::AppIntro.Resource.Drawable.abc_ic_star_half_black_16dp = global::Football.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::AppIntro.Resource.Drawable.abc_ic_star_half_black_36dp = global::Football.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::AppIntro.Resource.Drawable.abc_ic_star_half_black_48dp = global::Football.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::AppIntro.Resource.Drawable.abc_ic_voice_search_api_material = global::Football.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::AppIntro.Resource.Drawable.abc_item_background_holo_dark = global::Football.Resource.Drawable.abc_item_background_holo_dark;
+			global::AppIntro.Resource.Drawable.abc_item_background_holo_light = global::Football.Resource.Drawable.abc_item_background_holo_light;
+			global::AppIntro.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Football.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_list_focused_holo = global::Football.Resource.Drawable.abc_list_focused_holo;
+			global::AppIntro.Resource.Drawable.abc_list_longpressed_holo = global::Football.Resource.Drawable.abc_list_longpressed_holo;
+			global::AppIntro.Resource.Drawable.abc_list_pressed_holo_dark = global::Football.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::AppIntro.Resource.Drawable.abc_list_pressed_holo_light = global::Football.Resource.Drawable.abc_list_pressed_holo_light;
+			global::AppIntro.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Football.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::AppIntro.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Football.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::AppIntro.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Football.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::AppIntro.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Football.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::AppIntro.Resource.Drawable.abc_list_selector_holo_dark = global::Football.Resource.Drawable.abc_list_selector_holo_dark;
+			global::AppIntro.Resource.Drawable.abc_list_selector_holo_light = global::Football.Resource.Drawable.abc_list_selector_holo_light;
+			global::AppIntro.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Football.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::AppIntro.Resource.Drawable.abc_popup_background_mtrl_mult = global::Football.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::AppIntro.Resource.Drawable.abc_ratingbar_indicator_material = global::Football.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::AppIntro.Resource.Drawable.abc_ratingbar_material = global::Football.Resource.Drawable.abc_ratingbar_material;
+			global::AppIntro.Resource.Drawable.abc_ratingbar_small_material = global::Football.Resource.Drawable.abc_ratingbar_small_material;
+			global::AppIntro.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Football.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Football.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::AppIntro.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Football.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::AppIntro.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Football.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Football.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_seekbar_thumb_material = global::Football.Resource.Drawable.abc_seekbar_thumb_material;
+			global::AppIntro.Resource.Drawable.abc_seekbar_tick_mark_material = global::Football.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::AppIntro.Resource.Drawable.abc_seekbar_track_material = global::Football.Resource.Drawable.abc_seekbar_track_material;
+			global::AppIntro.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Football.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::AppIntro.Resource.Drawable.abc_spinner_textfield_background_material = global::Football.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::AppIntro.Resource.Drawable.abc_switch_thumb_material = global::Football.Resource.Drawable.abc_switch_thumb_material;
+			global::AppIntro.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Football.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_tab_indicator_material = global::Football.Resource.Drawable.abc_tab_indicator_material;
+			global::AppIntro.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Football.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_text_cursor_material = global::Football.Resource.Drawable.abc_text_cursor_material;
+			global::AppIntro.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Football.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::AppIntro.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Football.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::AppIntro.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Football.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::AppIntro.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Football.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::AppIntro.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Football.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::AppIntro.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Football.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::AppIntro.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Football.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Football.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Football.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Football.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::AppIntro.Resource.Drawable.abc_textfield_search_material = global::Football.Resource.Drawable.abc_textfield_search_material;
+			global::AppIntro.Resource.Drawable.abc_vector_test = global::Football.Resource.Drawable.abc_vector_test;
+			global::AppIntro.Resource.Drawable.ic_arrow_back_white = global::Football.Resource.Drawable.ic_arrow_back_white;
+			global::AppIntro.Resource.Drawable.ic_arrow_forward_white = global::Football.Resource.Drawable.ic_arrow_forward_white;
+			global::AppIntro.Resource.Drawable.ic_done_white = global::Football.Resource.Drawable.ic_done_white;
+			global::AppIntro.Resource.Drawable.ic_navigate_before_white = global::Football.Resource.Drawable.ic_navigate_before_white;
+			global::AppIntro.Resource.Drawable.ic_navigate_next_white = global::Football.Resource.Drawable.ic_navigate_next_white;
+			global::AppIntro.Resource.Drawable.ic_skip_white = global::Football.Resource.Drawable.ic_skip_white;
+			global::AppIntro.Resource.Drawable.indicator_dot_grey = global::Football.Resource.Drawable.indicator_dot_grey;
+			global::AppIntro.Resource.Drawable.indicator_dot_white = global::Football.Resource.Drawable.indicator_dot_white;
+			global::AppIntro.Resource.Drawable.notification_template_icon_bg = global::Football.Resource.Drawable.notification_template_icon_bg;
+			global::AppIntro.Resource.Id.action0 = global::Football.Resource.Id.action0;
+			global::AppIntro.Resource.Id.action_bar = global::Football.Resource.Id.action_bar;
+			global::AppIntro.Resource.Id.action_bar_activity_content = global::Football.Resource.Id.action_bar_activity_content;
+			global::AppIntro.Resource.Id.action_bar_container = global::Football.Resource.Id.action_bar_container;
+			global::AppIntro.Resource.Id.action_bar_root = global::Football.Resource.Id.action_bar_root;
+			global::AppIntro.Resource.Id.action_bar_spinner = global::Football.Resource.Id.action_bar_spinner;
+			global::AppIntro.Resource.Id.action_bar_subtitle = global::Football.Resource.Id.action_bar_subtitle;
+			global::AppIntro.Resource.Id.action_bar_title = global::Football.Resource.Id.action_bar_title;
+			global::AppIntro.Resource.Id.action_context_bar = global::Football.Resource.Id.action_context_bar;
+			global::AppIntro.Resource.Id.action_divider = global::Football.Resource.Id.action_divider;
+			global::AppIntro.Resource.Id.action_menu_divider = global::Football.Resource.Id.action_menu_divider;
+			global::AppIntro.Resource.Id.action_menu_presenter = global::Football.Resource.Id.action_menu_presenter;
+			global::AppIntro.Resource.Id.action_mode_bar = global::Football.Resource.Id.action_mode_bar;
+			global::AppIntro.Resource.Id.action_mode_bar_stub = global::Football.Resource.Id.action_mode_bar_stub;
+			global::AppIntro.Resource.Id.action_mode_close_button = global::Football.Resource.Id.action_mode_close_button;
+			global::AppIntro.Resource.Id.activity_chooser_view_content = global::Football.Resource.Id.activity_chooser_view_content;
+			global::AppIntro.Resource.Id.add = global::Football.Resource.Id.add;
+			global::AppIntro.Resource.Id.alertTitle = global::Football.Resource.Id.alertTitle;
+			global::AppIntro.Resource.Id.always = global::Football.Resource.Id.always;
+			global::AppIntro.Resource.Id.back = global::Football.Resource.Id.back;
+			global::AppIntro.Resource.Id.background = global::Football.Resource.Id.background;
+			global::AppIntro.Resource.Id.beginning = global::Football.Resource.Id.beginning;
+			global::AppIntro.Resource.Id.bottom = global::Football.Resource.Id.bottom;
+			global::AppIntro.Resource.Id.bottom_separator = global::Football.Resource.Id.bottom_separator;
+			global::AppIntro.Resource.Id.buttonPanel = global::Football.Resource.Id.buttonPanel;
+			global::AppIntro.Resource.Id.cancel_action = global::Football.Resource.Id.cancel_action;
+			global::AppIntro.Resource.Id.checkbox = global::Football.Resource.Id.checkbox;
+			global::AppIntro.Resource.Id.chronometer = global::Football.Resource.Id.chronometer;
+			global::AppIntro.Resource.Id.collapseActionView = global::Football.Resource.Id.collapseActionView;
+			global::AppIntro.Resource.Id.contentPanel = global::Football.Resource.Id.contentPanel;
+			global::AppIntro.Resource.Id.custom = global::Football.Resource.Id.custom;
+			global::AppIntro.Resource.Id.customPanel = global::Football.Resource.Id.customPanel;
+			global::AppIntro.Resource.Id.decor_content_parent = global::Football.Resource.Id.decor_content_parent;
+			global::AppIntro.Resource.Id.default_activity_button = global::Football.Resource.Id.default_activity_button;
+			global::AppIntro.Resource.Id.description = global::Football.Resource.Id.description;
+			global::AppIntro.Resource.Id.disableHome = global::Football.Resource.Id.disableHome;
+			global::AppIntro.Resource.Id.done = global::Football.Resource.Id.done;
+			global::AppIntro.Resource.Id.edit_query = global::Football.Resource.Id.edit_query;
+			global::AppIntro.Resource.Id.end = global::Football.Resource.Id.end;
+			global::AppIntro.Resource.Id.end_padder = global::Football.Resource.Id.end_padder;
+			global::AppIntro.Resource.Id.expand_activities_button = global::Football.Resource.Id.expand_activities_button;
+			global::AppIntro.Resource.Id.expanded_menu = global::Football.Resource.Id.expanded_menu;
+			global::AppIntro.Resource.Id.home = global::Football.Resource.Id.home;
+			global::AppIntro.Resource.Id.homeAsUp = global::Football.Resource.Id.homeAsUp;
+			global::AppIntro.Resource.Id.icon = global::Football.Resource.Id.icon;
+			global::AppIntro.Resource.Id.ifRoom = global::Football.Resource.Id.ifRoom;
+			global::AppIntro.Resource.Id.image = global::Football.Resource.Id.image;
+			global::AppIntro.Resource.Id.indicator_container = global::Football.Resource.Id.indicator_container;
+			global::AppIntro.Resource.Id.info = global::Football.Resource.Id.info;
+			global::AppIntro.Resource.Id.line1 = global::Football.Resource.Id.line1;
+			global::AppIntro.Resource.Id.line3 = global::Football.Resource.Id.line3;
+			global::AppIntro.Resource.Id.listMode = global::Football.Resource.Id.listMode;
+			global::AppIntro.Resource.Id.list_item = global::Football.Resource.Id.list_item;
+			global::AppIntro.Resource.Id.main = global::Football.Resource.Id.main;
+			global::AppIntro.Resource.Id.media_actions = global::Football.Resource.Id.media_actions;
+			global::AppIntro.Resource.Id.middle = global::Football.Resource.Id.middle;
+			global::AppIntro.Resource.Id.multiply = global::Football.Resource.Id.multiply;
+			global::AppIntro.Resource.Id.never = global::Football.Resource.Id.never;
+			global::AppIntro.Resource.Id.next = global::Football.Resource.Id.next;
+			global::AppIntro.Resource.Id.none = global::Football.Resource.Id.none;
+			global::AppIntro.Resource.Id.normal = global::Football.Resource.Id.normal;
+			global::AppIntro.Resource.Id.parentPanel = global::Football.Resource.Id.parentPanel;
+			global::AppIntro.Resource.Id.progress_circular = global::Football.Resource.Id.progress_circular;
+			global::AppIntro.Resource.Id.progress_horizontal = global::Football.Resource.Id.progress_horizontal;
+			global::AppIntro.Resource.Id.radio = global::Football.Resource.Id.radio;
+			global::AppIntro.Resource.Id.screen = global::Football.Resource.Id.screen;
+			global::AppIntro.Resource.Id.scrollIndicatorDown = global::Football.Resource.Id.scrollIndicatorDown;
+			global::AppIntro.Resource.Id.scrollIndicatorUp = global::Football.Resource.Id.scrollIndicatorUp;
+			global::AppIntro.Resource.Id.scrollView = global::Football.Resource.Id.scrollView;
+			global::AppIntro.Resource.Id.search_badge = global::Football.Resource.Id.search_badge;
+			global::AppIntro.Resource.Id.search_bar = global::Football.Resource.Id.search_bar;
+			global::AppIntro.Resource.Id.search_button = global::Football.Resource.Id.search_button;
+			global::AppIntro.Resource.Id.search_close_btn = global::Football.Resource.Id.search_close_btn;
+			global::AppIntro.Resource.Id.search_edit_frame = global::Football.Resource.Id.search_edit_frame;
+			global::AppIntro.Resource.Id.search_go_btn = global::Football.Resource.Id.search_go_btn;
+			global::AppIntro.Resource.Id.search_mag_icon = global::Football.Resource.Id.search_mag_icon;
+			global::AppIntro.Resource.Id.search_plate = global::Football.Resource.Id.search_plate;
+			global::AppIntro.Resource.Id.search_src_text = global::Football.Resource.Id.search_src_text;
+			global::AppIntro.Resource.Id.search_voice_btn = global::Football.Resource.Id.search_voice_btn;
+			global::AppIntro.Resource.Id.select_dialog_listview = global::Football.Resource.Id.select_dialog_listview;
+			global::AppIntro.Resource.Id.shortcut = global::Football.Resource.Id.shortcut;
+			global::AppIntro.Resource.Id.showCustom = global::Football.Resource.Id.showCustom;
+			global::AppIntro.Resource.Id.showHome = global::Football.Resource.Id.showHome;
+			global::AppIntro.Resource.Id.showTitle = global::Football.Resource.Id.showTitle;
+			global::AppIntro.Resource.Id.skip = global::Football.Resource.Id.skip;
+			global::AppIntro.Resource.Id.spacer = global::Football.Resource.Id.spacer;
+			global::AppIntro.Resource.Id.split_action_bar = global::Football.Resource.Id.split_action_bar;
+			global::AppIntro.Resource.Id.src_atop = global::Football.Resource.Id.src_atop;
+			global::AppIntro.Resource.Id.src_in = global::Football.Resource.Id.src_in;
+			global::AppIntro.Resource.Id.src_over = global::Football.Resource.Id.src_over;
+			global::AppIntro.Resource.Id.status_bar_latest_event_content = global::Football.Resource.Id.status_bar_latest_event_content;
+			global::AppIntro.Resource.Id.submenuarrow = global::Football.Resource.Id.submenuarrow;
+			global::AppIntro.Resource.Id.submit_area = global::Football.Resource.Id.submit_area;
+			global::AppIntro.Resource.Id.tabMode = global::Football.Resource.Id.tabMode;
+			global::AppIntro.Resource.Id.text = global::Football.Resource.Id.text;
+			global::AppIntro.Resource.Id.text2 = global::Football.Resource.Id.text2;
+			global::AppIntro.Resource.Id.textSpacerNoButtons = global::Football.Resource.Id.textSpacerNoButtons;
+			global::AppIntro.Resource.Id.time = global::Football.Resource.Id.time;
+			global::AppIntro.Resource.Id.title = global::Football.Resource.Id.title;
+			global::AppIntro.Resource.Id.title_template = global::Football.Resource.Id.title_template;
+			global::AppIntro.Resource.Id.top = global::Football.Resource.Id.top;
+			global::AppIntro.Resource.Id.topPanel = global::Football.Resource.Id.topPanel;
+			global::AppIntro.Resource.Id.up = global::Football.Resource.Id.up;
+			global::AppIntro.Resource.Id.useLogo = global::Football.Resource.Id.useLogo;
+			global::AppIntro.Resource.Id.view_pager = global::Football.Resource.Id.view_pager;
+			global::AppIntro.Resource.Id.withText = global::Football.Resource.Id.withText;
+			global::AppIntro.Resource.Id.wrap_content = global::Football.Resource.Id.wrap_content;
+			global::AppIntro.Resource.Integer.abc_config_activityDefaultDur = global::Football.Resource.Integer.abc_config_activityDefaultDur;
+			global::AppIntro.Resource.Integer.abc_config_activityShortDur = global::Football.Resource.Integer.abc_config_activityShortDur;
+			global::AppIntro.Resource.Integer.cancel_button_image_alpha = global::Football.Resource.Integer.cancel_button_image_alpha;
+			global::AppIntro.Resource.Integer.status_bar_notification_info_maxnum = global::Football.Resource.Integer.status_bar_notification_info_maxnum;
+			global::AppIntro.Resource.Layout.abc_action_bar_title_item = global::Football.Resource.Layout.abc_action_bar_title_item;
+			global::AppIntro.Resource.Layout.abc_action_bar_up_container = global::Football.Resource.Layout.abc_action_bar_up_container;
+			global::AppIntro.Resource.Layout.abc_action_bar_view_list_nav_layout = global::Football.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::AppIntro.Resource.Layout.abc_action_menu_item_layout = global::Football.Resource.Layout.abc_action_menu_item_layout;
+			global::AppIntro.Resource.Layout.abc_action_menu_layout = global::Football.Resource.Layout.abc_action_menu_layout;
+			global::AppIntro.Resource.Layout.abc_action_mode_bar = global::Football.Resource.Layout.abc_action_mode_bar;
+			global::AppIntro.Resource.Layout.abc_action_mode_close_item_material = global::Football.Resource.Layout.abc_action_mode_close_item_material;
+			global::AppIntro.Resource.Layout.abc_activity_chooser_view = global::Football.Resource.Layout.abc_activity_chooser_view;
+			global::AppIntro.Resource.Layout.abc_activity_chooser_view_list_item = global::Football.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::AppIntro.Resource.Layout.abc_alert_dialog_button_bar_material = global::Football.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::AppIntro.Resource.Layout.abc_alert_dialog_material = global::Football.Resource.Layout.abc_alert_dialog_material;
+			global::AppIntro.Resource.Layout.abc_dialog_title_material = global::Football.Resource.Layout.abc_dialog_title_material;
+			global::AppIntro.Resource.Layout.abc_expanded_menu_layout = global::Football.Resource.Layout.abc_expanded_menu_layout;
+			global::AppIntro.Resource.Layout.abc_list_menu_item_checkbox = global::Football.Resource.Layout.abc_list_menu_item_checkbox;
+			global::AppIntro.Resource.Layout.abc_list_menu_item_icon = global::Football.Resource.Layout.abc_list_menu_item_icon;
+			global::AppIntro.Resource.Layout.abc_list_menu_item_layout = global::Football.Resource.Layout.abc_list_menu_item_layout;
+			global::AppIntro.Resource.Layout.abc_list_menu_item_radio = global::Football.Resource.Layout.abc_list_menu_item_radio;
+			global::AppIntro.Resource.Layout.abc_popup_menu_header_item_layout = global::Football.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::AppIntro.Resource.Layout.abc_popup_menu_item_layout = global::Football.Resource.Layout.abc_popup_menu_item_layout;
+			global::AppIntro.Resource.Layout.abc_screen_content_include = global::Football.Resource.Layout.abc_screen_content_include;
+			global::AppIntro.Resource.Layout.abc_screen_simple = global::Football.Resource.Layout.abc_screen_simple;
+			global::AppIntro.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Football.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::AppIntro.Resource.Layout.abc_screen_toolbar = global::Football.Resource.Layout.abc_screen_toolbar;
+			global::AppIntro.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Football.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::AppIntro.Resource.Layout.abc_search_view = global::Football.Resource.Layout.abc_search_view;
+			global::AppIntro.Resource.Layout.abc_select_dialog_material = global::Football.Resource.Layout.abc_select_dialog_material;
+			global::AppIntro.Resource.Layout.default_indicator = global::Football.Resource.Layout.default_indicator;
+			global::AppIntro.Resource.Layout.fragment_intro = global::Football.Resource.Layout.fragment_intro;
+			global::AppIntro.Resource.Layout.fragment_intro2 = global::Football.Resource.Layout.fragment_intro2;
+			global::AppIntro.Resource.Layout.fragment_intro_content = global::Football.Resource.Layout.fragment_intro_content;
+			global::AppIntro.Resource.Layout.intro_layout = global::Football.Resource.Layout.intro_layout;
+			global::AppIntro.Resource.Layout.intro_layout2 = global::Football.Resource.Layout.intro_layout2;
+			global::AppIntro.Resource.Layout.notification_media_action = global::Football.Resource.Layout.notification_media_action;
+			global::AppIntro.Resource.Layout.notification_media_cancel_action = global::Football.Resource.Layout.notification_media_cancel_action;
+			global::AppIntro.Resource.Layout.notification_template_big_media = global::Football.Resource.Layout.notification_template_big_media;
+			global::AppIntro.Resource.Layout.notification_template_big_media_narrow = global::Football.Resource.Layout.notification_template_big_media_narrow;
+			//global::AppIntro.Resource.Layout.notification_template_lines = global::Football.Resource.Layout.notification_template_lines;
+			global::AppIntro.Resource.Layout.notification_template_media = global::Football.Resource.Layout.notification_template_media;
+			global::AppIntro.Resource.Layout.notification_template_part_chronometer = global::Football.Resource.Layout.notification_template_part_chronometer;
+			global::AppIntro.Resource.Layout.notification_template_part_time = global::Football.Resource.Layout.notification_template_part_time;
+			global::AppIntro.Resource.Layout.progress_indicator = global::Football.Resource.Layout.progress_indicator;
+			global::AppIntro.Resource.Layout.select_dialog_item_material = global::Football.Resource.Layout.select_dialog_item_material;
+			global::AppIntro.Resource.Layout.select_dialog_multichoice_material = global::Football.Resource.Layout.select_dialog_multichoice_material;
+			global::AppIntro.Resource.Layout.select_dialog_singlechoice_material = global::Football.Resource.Layout.select_dialog_singlechoice_material;
+			global::AppIntro.Resource.Layout.support_simple_spinner_dropdown_item = global::Football.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::AppIntro.Resource.String.abc_action_bar_home_description = global::Football.Resource.String.abc_action_bar_home_description;
+			global::AppIntro.Resource.String.abc_action_bar_home_description_format = global::Football.Resource.String.abc_action_bar_home_description_format;
+			global::AppIntro.Resource.String.abc_action_bar_home_subtitle_description_format = global::Football.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::AppIntro.Resource.String.abc_action_bar_up_description = global::Football.Resource.String.abc_action_bar_up_description;
+			global::AppIntro.Resource.String.abc_action_menu_overflow_description = global::Football.Resource.String.abc_action_menu_overflow_description;
+			global::AppIntro.Resource.String.abc_action_mode_done = global::Football.Resource.String.abc_action_mode_done;
+			global::AppIntro.Resource.String.abc_activity_chooser_view_see_all = global::Football.Resource.String.abc_activity_chooser_view_see_all;
+			global::AppIntro.Resource.String.abc_activitychooserview_choose_application = global::Football.Resource.String.abc_activitychooserview_choose_application;
+			global::AppIntro.Resource.String.abc_capital_off = global::Football.Resource.String.abc_capital_off;
+			global::AppIntro.Resource.String.abc_capital_on = global::Football.Resource.String.abc_capital_on;
+			global::AppIntro.Resource.String.abc_font_family_body_1_material = global::Football.Resource.String.abc_font_family_body_1_material;
+			global::AppIntro.Resource.String.abc_font_family_body_2_material = global::Football.Resource.String.abc_font_family_body_2_material;
+			global::AppIntro.Resource.String.abc_font_family_button_material = global::Football.Resource.String.abc_font_family_button_material;
+			global::AppIntro.Resource.String.abc_font_family_caption_material = global::Football.Resource.String.abc_font_family_caption_material;
+			global::AppIntro.Resource.String.abc_font_family_display_1_material = global::Football.Resource.String.abc_font_family_display_1_material;
+			global::AppIntro.Resource.String.abc_font_family_display_2_material = global::Football.Resource.String.abc_font_family_display_2_material;
+			global::AppIntro.Resource.String.abc_font_family_display_3_material = global::Football.Resource.String.abc_font_family_display_3_material;
+			global::AppIntro.Resource.String.abc_font_family_display_4_material = global::Football.Resource.String.abc_font_family_display_4_material;
+			global::AppIntro.Resource.String.abc_font_family_headline_material = global::Football.Resource.String.abc_font_family_headline_material;
+			global::AppIntro.Resource.String.abc_font_family_menu_material = global::Football.Resource.String.abc_font_family_menu_material;
+			global::AppIntro.Resource.String.abc_font_family_subhead_material = global::Football.Resource.String.abc_font_family_subhead_material;
+			global::AppIntro.Resource.String.abc_font_family_title_material = global::Football.Resource.String.abc_font_family_title_material;
+			global::AppIntro.Resource.String.abc_search_hint = global::Football.Resource.String.abc_search_hint;
+			global::AppIntro.Resource.String.abc_searchview_description_clear = global::Football.Resource.String.abc_searchview_description_clear;
+			global::AppIntro.Resource.String.abc_searchview_description_query = global::Football.Resource.String.abc_searchview_description_query;
+			global::AppIntro.Resource.String.abc_searchview_description_search = global::Football.Resource.String.abc_searchview_description_search;
+			global::AppIntro.Resource.String.abc_searchview_description_submit = global::Football.Resource.String.abc_searchview_description_submit;
+			global::AppIntro.Resource.String.abc_searchview_description_voice = global::Football.Resource.String.abc_searchview_description_voice;
+			global::AppIntro.Resource.String.abc_shareactionprovider_share_with = global::Football.Resource.String.abc_shareactionprovider_share_with;
+			global::AppIntro.Resource.String.abc_shareactionprovider_share_with_application = global::Football.Resource.String.abc_shareactionprovider_share_with_application;
+			global::AppIntro.Resource.String.abc_toolbar_collapse_description = global::Football.Resource.String.abc_toolbar_collapse_description;
+			global::AppIntro.Resource.String.app_intro_done_button = global::Football.Resource.String.app_intro_done_button;
+			global::AppIntro.Resource.String.app_intro_skip_button = global::Football.Resource.String.app_intro_skip_button;
+			global::AppIntro.Resource.String.define_appintro = global::Football.Resource.String.define_appintro;
+			global::AppIntro.Resource.String.library_appintro_author = global::Football.Resource.String.library_appintro_author;
+			global::AppIntro.Resource.String.library_appintro_authorWebsite = global::Football.Resource.String.library_appintro_authorWebsite;
+			global::AppIntro.Resource.String.library_appintro_classPath = global::Football.Resource.String.library_appintro_classPath;
+			global::AppIntro.Resource.String.library_appintro_isOpenSource = global::Football.Resource.String.library_appintro_isOpenSource;
+			global::AppIntro.Resource.String.library_appintro_libraryDescription = global::Football.Resource.String.library_appintro_libraryDescription;
+			global::AppIntro.Resource.String.library_appintro_libraryName = global::Football.Resource.String.library_appintro_libraryName;
+			global::AppIntro.Resource.String.library_appintro_libraryVersion = global::Football.Resource.String.library_appintro_libraryVersion;
+			global::AppIntro.Resource.String.library_appintro_libraryWebsite = global::Football.Resource.String.library_appintro_libraryWebsite;
+			global::AppIntro.Resource.String.library_appintro_licenseId = global::Football.Resource.String.library_appintro_licenseId;
+			global::AppIntro.Resource.String.library_appintro_repositoryLink = global::Football.Resource.String.library_appintro_repositoryLink;
+			global::AppIntro.Resource.String.search_menu_title = global::Football.Resource.String.search_menu_title;
+			global::AppIntro.Resource.String.status_bar_notification_info_overflow = global::Football.Resource.String.status_bar_notification_info_overflow;
+			global::AppIntro.Resource.Style.AlertDialog_AppCompat = global::Football.Resource.Style.AlertDialog_AppCompat;
+			global::AppIntro.Resource.Style.AlertDialog_AppCompat_Light = global::Football.Resource.Style.AlertDialog_AppCompat_Light;
+			global::AppIntro.Resource.Style.Animation_AppCompat_Dialog = global::Football.Resource.Style.Animation_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Animation_AppCompat_DropDownUp = global::Football.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::AppIntro.Resource.Style.AppIntroButtonStyleCompat = global::Football.Resource.Style.AppIntroButtonStyleCompat;
+			global::AppIntro.Resource.Style.AppIntroDefaultHeading = global::Football.Resource.Style.AppIntroDefaultHeading;
+			global::AppIntro.Resource.Style.AppIntroDefaultPadding = global::Football.Resource.Style.AppIntroDefaultPadding;
+			global::AppIntro.Resource.Style.AppIntroDefaultPadding_Intro1 = global::Football.Resource.Style.AppIntroDefaultPadding_Intro1;
+			global::AppIntro.Resource.Style.AppIntroDefaultPadding_Intro2 = global::Football.Resource.Style.AppIntroDefaultPadding_Intro2;
+			global::AppIntro.Resource.Style.AppIntroDefaultText = global::Football.Resource.Style.AppIntroDefaultText;
+			global::AppIntro.Resource.Style.Base_AlertDialog_AppCompat = global::Football.Resource.Style.Base_AlertDialog_AppCompat;
+			global::AppIntro.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Football.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_Animation_AppCompat_Dialog = global::Football.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Football.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::AppIntro.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Football.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::AppIntro.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Football.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat = global::Football.Resource.Style.Base_TextAppearance_AppCompat;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Football.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Football.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Football.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::AppIntro.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Football.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::AppIntro.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Football.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::AppIntro.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Football.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::AppIntro.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Football.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat = global::Football.Resource.Style.Base_Theme_AppCompat;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Football.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Dialog = global::Football.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Football.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Football.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Football.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Football.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light = global::Football.Resource.Style.Base_Theme_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Football.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Football.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Football.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Football.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Football.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::AppIntro.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Football.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::AppIntro.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Football.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::Football.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::Football.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::AppIntro.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::Football.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::Football.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::AppIntro.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::Football.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::AppIntro.Resource.Style.Base_V21_Theme_AppCompat = global::Football.Resource.Style.Base_V21_Theme_AppCompat;
+			global::AppIntro.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Football.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Football.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Football.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::AppIntro.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Football.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_V22_Theme_AppCompat = global::Football.Resource.Style.Base_V22_Theme_AppCompat;
+			global::AppIntro.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Football.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_V23_Theme_AppCompat = global::Football.Resource.Style.Base_V23_Theme_AppCompat;
+			global::AppIntro.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Football.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_V7_Theme_AppCompat = global::Football.Resource.Style.Base_V7_Theme_AppCompat;
+			global::AppIntro.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Football.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Football.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::AppIntro.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Football.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::AppIntro.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Football.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Football.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::AppIntro.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Football.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Football.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Football.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Football.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Football.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Football.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Football.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Football.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Football.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Football.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Football.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Football.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Button = global::Football.Resource.Style.Base_Widget_AppCompat_Button;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Football.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Football.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Football.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Football.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Football.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Football.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Football.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Football.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Football.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Football.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Football.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Football.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Football.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_EditText = global::Football.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Football.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Football.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Football.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Football.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Football.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Football.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Football.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Football.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Football.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Football.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Football.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ListView = global::Football.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Football.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Football.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Football.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Football.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Football.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Football.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Football.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Football.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Football.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Football.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_SearchView = global::Football.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Football.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Football.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Football.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Spinner = global::Football.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Football.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Football.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Football.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::AppIntro.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Football.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::AppIntro.Resource.Style.Platform_AppCompat = global::Football.Resource.Style.Platform_AppCompat;
+			global::AppIntro.Resource.Style.Platform_AppCompat_Light = global::Football.Resource.Style.Platform_AppCompat_Light;
+			global::AppIntro.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Football.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::AppIntro.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Football.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::AppIntro.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Football.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::AppIntro.Resource.Style.Platform_V11_AppCompat = global::Football.Resource.Style.Platform_V11_AppCompat;
+			global::AppIntro.Resource.Style.Platform_V11_AppCompat_Light = global::Football.Resource.Style.Platform_V11_AppCompat_Light;
+			global::AppIntro.Resource.Style.Platform_V14_AppCompat = global::Football.Resource.Style.Platform_V14_AppCompat;
+			global::AppIntro.Resource.Style.Platform_V14_AppCompat_Light = global::Football.Resource.Style.Platform_V14_AppCompat_Light;
+			global::AppIntro.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Football.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::AppIntro.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Football.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::AppIntro.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Football.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::AppIntro.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Football.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::AppIntro.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Football.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat = global::Football.Resource.Style.TextAppearance_AppCompat;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Body1 = global::Football.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Body2 = global::Football.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Button = global::Football.Resource.Style.TextAppearance_AppCompat_Button;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Caption = global::Football.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Display1 = global::Football.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Display2 = global::Football.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Display3 = global::Football.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Display4 = global::Football.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Headline = global::Football.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Large = global::Football.Resource.Style.TextAppearance_AppCompat_Large;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Football.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Football.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Football.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Football.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Medium = global::Football.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Menu = global::Football.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Football.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Football.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Small = global::Football.Resource.Style.TextAppearance_AppCompat_Small;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Subhead = global::Football.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Title = global::Football.Resource.Style.TextAppearance_AppCompat_Title;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::AppIntro.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Football.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::AppIntro.Resource.Style.TextAppearance_StatusBar_EventContent = global::Football.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::AppIntro.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::Football.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::AppIntro.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::Football.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::AppIntro.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::Football.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::AppIntro.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::Football.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::AppIntro.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Football.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::AppIntro.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Football.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::AppIntro.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Football.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::AppIntro.Resource.Style.Theme_AppCompat = global::Football.Resource.Style.Theme_AppCompat;
+			global::AppIntro.Resource.Style.Theme_AppCompat_CompactMenu = global::Football.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight = global::Football.Resource.Style.Theme_AppCompat_DayNight;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Football.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Football.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Football.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Football.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Football.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Football.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Dialog = global::Football.Resource.Style.Theme_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Football.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Football.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::AppIntro.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Football.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light = global::Football.Resource.Style.Theme_AppCompat_Light;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Football.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light_Dialog = global::Football.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Football.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Football.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Football.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::AppIntro.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Football.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::AppIntro.Resource.Style.Theme_AppCompat_NoActionBar = global::Football.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat = global::Football.Resource.Style.ThemeOverlay_AppCompat;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Football.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Football.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Football.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Football.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Football.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::AppIntro.Resource.Style.ThemeOverlay_AppCompat_Light = global::Football.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionBar = global::Football.Resource.Style.Widget_AppCompat_ActionBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Football.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Football.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Football.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Football.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionButton = global::Football.Resource.Style.Widget_AppCompat_ActionButton;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Football.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Football.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActionMode = global::Football.Resource.Style.Widget_AppCompat_ActionMode;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Football.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Football.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Button = global::Football.Resource.Style.Widget_AppCompat_Button;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Button_Borderless = global::Football.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Football.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Football.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Button_Colored = global::Football.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Button_Small = global::Football.Resource.Style.Widget_AppCompat_Button_Small;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ButtonBar = global::Football.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Football.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::AppIntro.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Football.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::AppIntro.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Football.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::AppIntro.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Football.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::AppIntro.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Football.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::AppIntro.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Football.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::AppIntro.Resource.Style.Widget_AppCompat_EditText = global::Football.Resource.Style.Widget_AppCompat_EditText;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ImageButton = global::Football.Resource.Style.Widget_AppCompat_ImageButton;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Football.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Football.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Football.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Football.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Football.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Football.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Football.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Football.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Football.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Football.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Football.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Football.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_SearchView = global::Football.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Football.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ListMenuView = global::Football.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Football.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ListView = global::Football.Resource.Style.Widget_AppCompat_ListView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Football.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ListView_Menu = global::Football.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::AppIntro.Resource.Style.Widget_AppCompat_PopupMenu = global::Football.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::AppIntro.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Football.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_PopupWindow = global::Football.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ProgressBar = global::Football.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Football.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::AppIntro.Resource.Style.Widget_AppCompat_RatingBar = global::Football.Resource.Style.Widget_AppCompat_RatingBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Football.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::AppIntro.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Football.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::AppIntro.Resource.Style.Widget_AppCompat_SearchView = global::Football.Resource.Style.Widget_AppCompat_SearchView;
+			global::AppIntro.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Football.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_SeekBar = global::Football.Resource.Style.Widget_AppCompat_SeekBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Football.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Spinner = global::Football.Resource.Style.Widget_AppCompat_Spinner;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Football.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Football.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Football.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::AppIntro.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Football.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Toolbar = global::Football.Resource.Style.Widget_AppCompat_Toolbar;
+			global::AppIntro.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Football.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::AppIntro.Resource.Styleable.ActionBar = global::Football.Resource.Styleable.ActionBar;
+			global::AppIntro.Resource.Styleable.ActionBar_background = global::Football.Resource.Styleable.ActionBar_background;
+			global::AppIntro.Resource.Styleable.ActionBar_backgroundSplit = global::Football.Resource.Styleable.ActionBar_backgroundSplit;
+			global::AppIntro.Resource.Styleable.ActionBar_backgroundStacked = global::Football.Resource.Styleable.ActionBar_backgroundStacked;
+			global::AppIntro.Resource.Styleable.ActionBar_contentInsetEnd = global::Football.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::AppIntro.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Football.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::AppIntro.Resource.Styleable.ActionBar_contentInsetLeft = global::Football.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::AppIntro.Resource.Styleable.ActionBar_contentInsetRight = global::Football.Resource.Styleable.ActionBar_contentInsetRight;
+			global::AppIntro.Resource.Styleable.ActionBar_contentInsetStart = global::Football.Resource.Styleable.ActionBar_contentInsetStart;
+			global::AppIntro.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Football.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::AppIntro.Resource.Styleable.ActionBar_customNavigationLayout = global::Football.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::AppIntro.Resource.Styleable.ActionBar_displayOptions = global::Football.Resource.Styleable.ActionBar_displayOptions;
+			global::AppIntro.Resource.Styleable.ActionBar_divider = global::Football.Resource.Styleable.ActionBar_divider;
+			global::AppIntro.Resource.Styleable.ActionBar_elevation = global::Football.Resource.Styleable.ActionBar_elevation;
+			global::AppIntro.Resource.Styleable.ActionBar_height = global::Football.Resource.Styleable.ActionBar_height;
+			global::AppIntro.Resource.Styleable.ActionBar_hideOnContentScroll = global::Football.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::AppIntro.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Football.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::AppIntro.Resource.Styleable.ActionBar_homeLayout = global::Football.Resource.Styleable.ActionBar_homeLayout;
+			global::AppIntro.Resource.Styleable.ActionBar_icon = global::Football.Resource.Styleable.ActionBar_icon;
+			global::AppIntro.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Football.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::AppIntro.Resource.Styleable.ActionBar_itemPadding = global::Football.Resource.Styleable.ActionBar_itemPadding;
+			global::AppIntro.Resource.Styleable.ActionBar_logo = global::Football.Resource.Styleable.ActionBar_logo;
+			global::AppIntro.Resource.Styleable.ActionBar_navigationMode = global::Football.Resource.Styleable.ActionBar_navigationMode;
+			global::AppIntro.Resource.Styleable.ActionBar_popupTheme = global::Football.Resource.Styleable.ActionBar_popupTheme;
+			global::AppIntro.Resource.Styleable.ActionBar_progressBarPadding = global::Football.Resource.Styleable.ActionBar_progressBarPadding;
+			global::AppIntro.Resource.Styleable.ActionBar_progressBarStyle = global::Football.Resource.Styleable.ActionBar_progressBarStyle;
+			global::AppIntro.Resource.Styleable.ActionBar_subtitle = global::Football.Resource.Styleable.ActionBar_subtitle;
+			global::AppIntro.Resource.Styleable.ActionBar_subtitleTextStyle = global::Football.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::AppIntro.Resource.Styleable.ActionBar_title = global::Football.Resource.Styleable.ActionBar_title;
+			global::AppIntro.Resource.Styleable.ActionBar_titleTextStyle = global::Football.Resource.Styleable.ActionBar_titleTextStyle;
+			global::AppIntro.Resource.Styleable.ActionBarLayout = global::Football.Resource.Styleable.ActionBarLayout;
+			global::AppIntro.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Football.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::AppIntro.Resource.Styleable.ActionMenuItemView = global::Football.Resource.Styleable.ActionMenuItemView;
+			global::AppIntro.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Football.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::AppIntro.Resource.Styleable.ActionMenuView = global::Football.Resource.Styleable.ActionMenuView;
+			global::AppIntro.Resource.Styleable.ActionMode = global::Football.Resource.Styleable.ActionMode;
+			global::AppIntro.Resource.Styleable.ActionMode_background = global::Football.Resource.Styleable.ActionMode_background;
+			global::AppIntro.Resource.Styleable.ActionMode_backgroundSplit = global::Football.Resource.Styleable.ActionMode_backgroundSplit;
+			global::AppIntro.Resource.Styleable.ActionMode_closeItemLayout = global::Football.Resource.Styleable.ActionMode_closeItemLayout;
+			global::AppIntro.Resource.Styleable.ActionMode_height = global::Football.Resource.Styleable.ActionMode_height;
+			global::AppIntro.Resource.Styleable.ActionMode_subtitleTextStyle = global::Football.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::AppIntro.Resource.Styleable.ActionMode_titleTextStyle = global::Football.Resource.Styleable.ActionMode_titleTextStyle;
+			global::AppIntro.Resource.Styleable.ActivityChooserView = global::Football.Resource.Styleable.ActivityChooserView;
+			global::AppIntro.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Football.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::AppIntro.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Football.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::AppIntro.Resource.Styleable.AlertDialog = global::Football.Resource.Styleable.AlertDialog;
+			global::AppIntro.Resource.Styleable.AlertDialog_android_layout = global::Football.Resource.Styleable.AlertDialog_android_layout;
+			global::AppIntro.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Football.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::AppIntro.Resource.Styleable.AlertDialog_listItemLayout = global::Football.Resource.Styleable.AlertDialog_listItemLayout;
+			global::AppIntro.Resource.Styleable.AlertDialog_listLayout = global::Football.Resource.Styleable.AlertDialog_listLayout;
+			global::AppIntro.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Football.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::AppIntro.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Football.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::AppIntro.Resource.Styleable.AppCompatImageView = global::Football.Resource.Styleable.AppCompatImageView;
+			global::AppIntro.Resource.Styleable.AppCompatImageView_android_src = global::Football.Resource.Styleable.AppCompatImageView_android_src;
+			global::AppIntro.Resource.Styleable.AppCompatImageView_srcCompat = global::Football.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::AppIntro.Resource.Styleable.AppCompatSeekBar = global::Football.Resource.Styleable.AppCompatSeekBar;
+			global::AppIntro.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Football.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::AppIntro.Resource.Styleable.AppCompatSeekBar_tickMark = global::Football.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::AppIntro.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Football.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::AppIntro.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Football.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper = global::Football.Resource.Styleable.AppCompatTextHelper;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Football.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Football.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Football.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Football.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Football.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Football.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::AppIntro.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Football.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::AppIntro.Resource.Styleable.AppCompatTextView = global::Football.Resource.Styleable.AppCompatTextView;
+			global::AppIntro.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Football.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::AppIntro.Resource.Styleable.AppCompatTextView_textAllCaps = global::Football.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::AppIntro.Resource.Styleable.AppCompatTheme = global::Football.Resource.Styleable.AppCompatTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Football.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Football.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Football.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarSize = global::Football.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Football.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Football.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Football.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Football.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Football.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Football.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Football.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Football.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Football.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Football.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Football.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Football.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Football.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Football.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Football.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Football.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Football.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Football.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Football.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Football.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Football.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Football.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Football.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Football.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Football.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonStyle = global::Football.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Football.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Football.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Football.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorAccent = global::Football.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Football.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Football.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Football.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Football.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Football.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorPrimary = global::Football.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Football.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Football.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_controlBackground = global::Football.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Football.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_dialogTheme = global::Football.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Football.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_dividerVertical = global::Football.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Football.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Football.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_editTextBackground = global::Football.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_editTextColor = global::Football.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_editTextStyle = global::Football.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Football.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Football.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Football.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Football.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Football.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Football.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Football.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Football.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Football.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Football.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_panelBackground = global::Football.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Football.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Football.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Football.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Football.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Football.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Football.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Football.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Football.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Football.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Football.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Football.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Football.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Football.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_switchStyle = global::Football.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Football.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Football.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Football.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Football.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Football.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Football.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Football.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Football.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Football.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Football.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Football.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowActionBar = global::Football.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Football.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Football.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Football.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Football.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Football.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Football.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Football.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Football.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::AppIntro.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Football.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::AppIntro.Resource.Styleable.ButtonBarLayout = global::Football.Resource.Styleable.ButtonBarLayout;
+			global::AppIntro.Resource.Styleable.ButtonBarLayout_allowStacking = global::Football.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::AppIntro.Resource.Styleable.ColorStateListItem = global::Football.Resource.Styleable.ColorStateListItem;
+			global::AppIntro.Resource.Styleable.ColorStateListItem_alpha = global::Football.Resource.Styleable.ColorStateListItem_alpha;
+			global::AppIntro.Resource.Styleable.ColorStateListItem_android_alpha = global::Football.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::AppIntro.Resource.Styleable.ColorStateListItem_android_color = global::Football.Resource.Styleable.ColorStateListItem_android_color;
+			global::AppIntro.Resource.Styleable.CompoundButton = global::Football.Resource.Styleable.CompoundButton;
+			global::AppIntro.Resource.Styleable.CompoundButton_android_button = global::Football.Resource.Styleable.CompoundButton_android_button;
+			global::AppIntro.Resource.Styleable.CompoundButton_buttonTint = global::Football.Resource.Styleable.CompoundButton_buttonTint;
+			global::AppIntro.Resource.Styleable.CompoundButton_buttonTintMode = global::Football.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle = global::Football.Resource.Styleable.DrawerArrowToggle;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Football.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Football.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_barLength = global::Football.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_color = global::Football.Resource.Styleable.DrawerArrowToggle_color;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Football.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Football.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_spinBars = global::Football.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::AppIntro.Resource.Styleable.DrawerArrowToggle_thickness = global::Football.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat = global::Football.Resource.Styleable.LinearLayoutCompat;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Football.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Football.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Football.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Football.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Football.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_divider = global::Football.Resource.Styleable.LinearLayoutCompat_divider;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Football.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Football.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_showDividers = global::Football.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_Layout = global::Football.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Football.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Football.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Football.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::AppIntro.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Football.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::AppIntro.Resource.Styleable.ListPopupWindow = global::Football.Resource.Styleable.ListPopupWindow;
+			global::AppIntro.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Football.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::AppIntro.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Football.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::AppIntro.Resource.Styleable.MenuGroup = global::Football.Resource.Styleable.MenuGroup;
+			global::AppIntro.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Football.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::AppIntro.Resource.Styleable.MenuGroup_android_enabled = global::Football.Resource.Styleable.MenuGroup_android_enabled;
+			global::AppIntro.Resource.Styleable.MenuGroup_android_id = global::Football.Resource.Styleable.MenuGroup_android_id;
+			global::AppIntro.Resource.Styleable.MenuGroup_android_menuCategory = global::Football.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::AppIntro.Resource.Styleable.MenuGroup_android_orderInCategory = global::Football.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::AppIntro.Resource.Styleable.MenuGroup_android_visible = global::Football.Resource.Styleable.MenuGroup_android_visible;
+			global::AppIntro.Resource.Styleable.MenuItem = global::Football.Resource.Styleable.MenuItem;
+			global::AppIntro.Resource.Styleable.MenuItem_actionLayout = global::Football.Resource.Styleable.MenuItem_actionLayout;
+			global::AppIntro.Resource.Styleable.MenuItem_actionProviderClass = global::Football.Resource.Styleable.MenuItem_actionProviderClass;
+			global::AppIntro.Resource.Styleable.MenuItem_actionViewClass = global::Football.Resource.Styleable.MenuItem_actionViewClass;
+			global::AppIntro.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Football.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::AppIntro.Resource.Styleable.MenuItem_android_checkable = global::Football.Resource.Styleable.MenuItem_android_checkable;
+			global::AppIntro.Resource.Styleable.MenuItem_android_checked = global::Football.Resource.Styleable.MenuItem_android_checked;
+			global::AppIntro.Resource.Styleable.MenuItem_android_enabled = global::Football.Resource.Styleable.MenuItem_android_enabled;
+			global::AppIntro.Resource.Styleable.MenuItem_android_icon = global::Football.Resource.Styleable.MenuItem_android_icon;
+			global::AppIntro.Resource.Styleable.MenuItem_android_id = global::Football.Resource.Styleable.MenuItem_android_id;
+			global::AppIntro.Resource.Styleable.MenuItem_android_menuCategory = global::Football.Resource.Styleable.MenuItem_android_menuCategory;
+			global::AppIntro.Resource.Styleable.MenuItem_android_numericShortcut = global::Football.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::AppIntro.Resource.Styleable.MenuItem_android_onClick = global::Football.Resource.Styleable.MenuItem_android_onClick;
+			global::AppIntro.Resource.Styleable.MenuItem_android_orderInCategory = global::Football.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::AppIntro.Resource.Styleable.MenuItem_android_title = global::Football.Resource.Styleable.MenuItem_android_title;
+			global::AppIntro.Resource.Styleable.MenuItem_android_titleCondensed = global::Football.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::AppIntro.Resource.Styleable.MenuItem_android_visible = global::Football.Resource.Styleable.MenuItem_android_visible;
+			global::AppIntro.Resource.Styleable.MenuItem_showAsAction = global::Football.Resource.Styleable.MenuItem_showAsAction;
+			global::AppIntro.Resource.Styleable.MenuView = global::Football.Resource.Styleable.MenuView;
+			global::AppIntro.Resource.Styleable.MenuView_android_headerBackground = global::Football.Resource.Styleable.MenuView_android_headerBackground;
+			global::AppIntro.Resource.Styleable.MenuView_android_horizontalDivider = global::Football.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::AppIntro.Resource.Styleable.MenuView_android_itemBackground = global::Football.Resource.Styleable.MenuView_android_itemBackground;
+			global::AppIntro.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Football.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::AppIntro.Resource.Styleable.MenuView_android_itemTextAppearance = global::Football.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::AppIntro.Resource.Styleable.MenuView_android_verticalDivider = global::Football.Resource.Styleable.MenuView_android_verticalDivider;
+			global::AppIntro.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Football.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::AppIntro.Resource.Styleable.MenuView_preserveIconSpacing = global::Football.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::AppIntro.Resource.Styleable.MenuView_subMenuArrow = global::Football.Resource.Styleable.MenuView_subMenuArrow;
+			global::AppIntro.Resource.Styleable.PopupWindow = global::Football.Resource.Styleable.PopupWindow;
+			global::AppIntro.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Football.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::AppIntro.Resource.Styleable.PopupWindow_android_popupBackground = global::Football.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::AppIntro.Resource.Styleable.PopupWindow_overlapAnchor = global::Football.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::AppIntro.Resource.Styleable.PopupWindowBackgroundState = global::Football.Resource.Styleable.PopupWindowBackgroundState;
+			global::AppIntro.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Football.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::AppIntro.Resource.Styleable.SearchView = global::Football.Resource.Styleable.SearchView;
+			global::AppIntro.Resource.Styleable.SearchView_android_focusable = global::Football.Resource.Styleable.SearchView_android_focusable;
+			global::AppIntro.Resource.Styleable.SearchView_android_imeOptions = global::Football.Resource.Styleable.SearchView_android_imeOptions;
+			global::AppIntro.Resource.Styleable.SearchView_android_inputType = global::Football.Resource.Styleable.SearchView_android_inputType;
+			global::AppIntro.Resource.Styleable.SearchView_android_maxWidth = global::Football.Resource.Styleable.SearchView_android_maxWidth;
+			global::AppIntro.Resource.Styleable.SearchView_closeIcon = global::Football.Resource.Styleable.SearchView_closeIcon;
+			global::AppIntro.Resource.Styleable.SearchView_commitIcon = global::Football.Resource.Styleable.SearchView_commitIcon;
+			global::AppIntro.Resource.Styleable.SearchView_defaultQueryHint = global::Football.Resource.Styleable.SearchView_defaultQueryHint;
+			global::AppIntro.Resource.Styleable.SearchView_goIcon = global::Football.Resource.Styleable.SearchView_goIcon;
+			global::AppIntro.Resource.Styleable.SearchView_iconifiedByDefault = global::Football.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::AppIntro.Resource.Styleable.SearchView_layout = global::Football.Resource.Styleable.SearchView_layout;
+			global::AppIntro.Resource.Styleable.SearchView_queryBackground = global::Football.Resource.Styleable.SearchView_queryBackground;
+			global::AppIntro.Resource.Styleable.SearchView_queryHint = global::Football.Resource.Styleable.SearchView_queryHint;
+			global::AppIntro.Resource.Styleable.SearchView_searchHintIcon = global::Football.Resource.Styleable.SearchView_searchHintIcon;
+			global::AppIntro.Resource.Styleable.SearchView_searchIcon = global::Football.Resource.Styleable.SearchView_searchIcon;
+			global::AppIntro.Resource.Styleable.SearchView_submitBackground = global::Football.Resource.Styleable.SearchView_submitBackground;
+			global::AppIntro.Resource.Styleable.SearchView_suggestionRowLayout = global::Football.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::AppIntro.Resource.Styleable.SearchView_voiceIcon = global::Football.Resource.Styleable.SearchView_voiceIcon;
+			global::AppIntro.Resource.Styleable.Spinner = global::Football.Resource.Styleable.Spinner;
+			global::AppIntro.Resource.Styleable.Spinner_android_dropDownWidth = global::Football.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::AppIntro.Resource.Styleable.Spinner_android_entries = global::Football.Resource.Styleable.Spinner_android_entries;
+			global::AppIntro.Resource.Styleable.Spinner_android_popupBackground = global::Football.Resource.Styleable.Spinner_android_popupBackground;
+			global::AppIntro.Resource.Styleable.Spinner_android_prompt = global::Football.Resource.Styleable.Spinner_android_prompt;
+			global::AppIntro.Resource.Styleable.Spinner_popupTheme = global::Football.Resource.Styleable.Spinner_popupTheme;
+			global::AppIntro.Resource.Styleable.SwitchCompat = global::Football.Resource.Styleable.SwitchCompat;
+			global::AppIntro.Resource.Styleable.SwitchCompat_android_textOff = global::Football.Resource.Styleable.SwitchCompat_android_textOff;
+			global::AppIntro.Resource.Styleable.SwitchCompat_android_textOn = global::Football.Resource.Styleable.SwitchCompat_android_textOn;
+			global::AppIntro.Resource.Styleable.SwitchCompat_android_thumb = global::Football.Resource.Styleable.SwitchCompat_android_thumb;
+			global::AppIntro.Resource.Styleable.SwitchCompat_showText = global::Football.Resource.Styleable.SwitchCompat_showText;
+			global::AppIntro.Resource.Styleable.SwitchCompat_splitTrack = global::Football.Resource.Styleable.SwitchCompat_splitTrack;
+			global::AppIntro.Resource.Styleable.SwitchCompat_switchMinWidth = global::Football.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::AppIntro.Resource.Styleable.SwitchCompat_switchPadding = global::Football.Resource.Styleable.SwitchCompat_switchPadding;
+			global::AppIntro.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Football.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::AppIntro.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Football.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::AppIntro.Resource.Styleable.SwitchCompat_thumbTint = global::Football.Resource.Styleable.SwitchCompat_thumbTint;
+			global::AppIntro.Resource.Styleable.SwitchCompat_thumbTintMode = global::Football.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::AppIntro.Resource.Styleable.SwitchCompat_track = global::Football.Resource.Styleable.SwitchCompat_track;
+			global::AppIntro.Resource.Styleable.SwitchCompat_trackTint = global::Football.Resource.Styleable.SwitchCompat_trackTint;
+			global::AppIntro.Resource.Styleable.SwitchCompat_trackTintMode = global::Football.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::AppIntro.Resource.Styleable.TextAppearance = global::Football.Resource.Styleable.TextAppearance;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_shadowColor = global::Football.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_shadowDx = global::Football.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_shadowDy = global::Football.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_shadowRadius = global::Football.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_textColor = global::Football.Resource.Styleable.TextAppearance_android_textColor;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_textSize = global::Football.Resource.Styleable.TextAppearance_android_textSize;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_textStyle = global::Football.Resource.Styleable.TextAppearance_android_textStyle;
+			global::AppIntro.Resource.Styleable.TextAppearance_android_typeface = global::Football.Resource.Styleable.TextAppearance_android_typeface;
+			global::AppIntro.Resource.Styleable.TextAppearance_textAllCaps = global::Football.Resource.Styleable.TextAppearance_textAllCaps;
+			global::AppIntro.Resource.Styleable.Toolbar = global::Football.Resource.Styleable.Toolbar;
+			global::AppIntro.Resource.Styleable.Toolbar_android_gravity = global::Football.Resource.Styleable.Toolbar_android_gravity;
+			global::AppIntro.Resource.Styleable.Toolbar_android_minHeight = global::Football.Resource.Styleable.Toolbar_android_minHeight;
+			global::AppIntro.Resource.Styleable.Toolbar_buttonGravity = global::Football.Resource.Styleable.Toolbar_buttonGravity;
+			global::AppIntro.Resource.Styleable.Toolbar_collapseContentDescription = global::Football.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::AppIntro.Resource.Styleable.Toolbar_collapseIcon = global::Football.Resource.Styleable.Toolbar_collapseIcon;
+			global::AppIntro.Resource.Styleable.Toolbar_contentInsetEnd = global::Football.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::AppIntro.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Football.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::AppIntro.Resource.Styleable.Toolbar_contentInsetLeft = global::Football.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::AppIntro.Resource.Styleable.Toolbar_contentInsetRight = global::Football.Resource.Styleable.Toolbar_contentInsetRight;
+			global::AppIntro.Resource.Styleable.Toolbar_contentInsetStart = global::Football.Resource.Styleable.Toolbar_contentInsetStart;
+			global::AppIntro.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Football.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::AppIntro.Resource.Styleable.Toolbar_logo = global::Football.Resource.Styleable.Toolbar_logo;
+			global::AppIntro.Resource.Styleable.Toolbar_logoDescription = global::Football.Resource.Styleable.Toolbar_logoDescription;
+			global::AppIntro.Resource.Styleable.Toolbar_maxButtonHeight = global::Football.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::AppIntro.Resource.Styleable.Toolbar_navigationContentDescription = global::Football.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::AppIntro.Resource.Styleable.Toolbar_navigationIcon = global::Football.Resource.Styleable.Toolbar_navigationIcon;
+			global::AppIntro.Resource.Styleable.Toolbar_popupTheme = global::Football.Resource.Styleable.Toolbar_popupTheme;
+			global::AppIntro.Resource.Styleable.Toolbar_subtitle = global::Football.Resource.Styleable.Toolbar_subtitle;
+			global::AppIntro.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Football.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::AppIntro.Resource.Styleable.Toolbar_subtitleTextColor = global::Football.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::AppIntro.Resource.Styleable.Toolbar_title = global::Football.Resource.Styleable.Toolbar_title;
+			global::AppIntro.Resource.Styleable.Toolbar_titleMargin = global::Football.Resource.Styleable.Toolbar_titleMargin;
+			global::AppIntro.Resource.Styleable.Toolbar_titleMarginBottom = global::Football.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::AppIntro.Resource.Styleable.Toolbar_titleMarginEnd = global::Football.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::AppIntro.Resource.Styleable.Toolbar_titleMarginStart = global::Football.Resource.Styleable.Toolbar_titleMarginStart;
+			global::AppIntro.Resource.Styleable.Toolbar_titleMarginTop = global::Football.Resource.Styleable.Toolbar_titleMarginTop;
+			global::AppIntro.Resource.Styleable.Toolbar_titleMargins = global::Football.Resource.Styleable.Toolbar_titleMargins;
+			global::AppIntro.Resource.Styleable.Toolbar_titleTextAppearance = global::Football.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::AppIntro.Resource.Styleable.Toolbar_titleTextColor = global::Football.Resource.Styleable.Toolbar_titleTextColor;
+			global::AppIntro.Resource.Styleable.View = global::Football.Resource.Styleable.View;
+			global::AppIntro.Resource.Styleable.View_android_focusable = global::Football.Resource.Styleable.View_android_focusable;
+			global::AppIntro.Resource.Styleable.View_android_theme = global::Football.Resource.Styleable.View_android_theme;
+			global::AppIntro.Resource.Styleable.View_paddingEnd = global::Football.Resource.Styleable.View_paddingEnd;
+			global::AppIntro.Resource.Styleable.View_paddingStart = global::Football.Resource.Styleable.View_paddingStart;
+			global::AppIntro.Resource.Styleable.View_theme = global::Football.Resource.Styleable.View_theme;
+			global::AppIntro.Resource.Styleable.ViewBackgroundHelper = global::Football.Resource.Styleable.ViewBackgroundHelper;
+			global::AppIntro.Resource.Styleable.ViewBackgroundHelper_android_background = global::Football.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::AppIntro.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Football.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::AppIntro.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Football.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::AppIntro.Resource.Styleable.ViewStubCompat = global::Football.Resource.Styleable.ViewStubCompat;
+			global::AppIntro.Resource.Styleable.ViewStubCompat_android_id = global::Football.Resource.Styleable.ViewStubCompat_android_id;
+			global::AppIntro.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Football.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::AppIntro.Resource.Styleable.ViewStubCompat_android_layout = global::Football.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -1337,6 +2733,33 @@ namespace Football
 			// aapt resource value: 0x7f05000a
 			public const int abc_text_size_title_material_toolbar = 2131034122;
 			
+			// aapt resource value: 0x7f050069
+			public const int appIntro2BottomBarHeight = 2131034217;
+			
+			// aapt resource value: 0x7f050068
+			public const int appIntroBottomBarHeight = 2131034216;
+			
+			// aapt resource value: 0x7f05006d
+			public const int appIntroDefaultPaddingBottom = 2131034221;
+			
+			// aapt resource value: 0x7f05006e
+			public const int appIntroDefaultPaddingBottomIntro1 = 2131034222;
+			
+			// aapt resource value: 0x7f05006f
+			public const int appIntroDefaultPaddingBottomIntro2 = 2131034223;
+			
+			// aapt resource value: 0x7f05006b
+			public const int appIntroDefaultPaddingLeft = 2131034219;
+			
+			// aapt resource value: 0x7f05006c
+			public const int appIntroDefaultPaddingRight = 2131034220;
+			
+			// aapt resource value: 0x7f05006a
+			public const int appIntroDefaultPaddingTop = 2131034218;
+			
+			// aapt resource value: 0x7f050070
+			public const int appIntroHeadingTextSize = 2131034224;
+			
 			// aapt resource value: 0x7f050003
 			public const int cardview_compat_inset_shadow = 2131034115;
 			
@@ -1813,202 +3236,235 @@ namespace Football
 			public const int Fiorentina = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int FSVMainz = 2130837628;
+			public const int flamingfootball = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int FulhamFC = 2130837629;
+			public const int footballfieldinperspective = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int Genoa = 2130837630;
+			public const int footballtrophy = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int Guingamp = 2130837631;
+			public const int FSVMainz = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int HerthaBSC = 2130837632;
+			public const int FulhamFC = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int HSV = 2130837633;
+			public const int Genoa = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int Icon = 2130837634;
+			public const int Guingamp = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int Ingolstadt04 = 2130837635;
+			public const int HerthaBSC = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int InterMilan = 2130837636;
+			public const int HSV = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int Juventus = 2130837637;
+			public const int ic_arrow_back_white = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int LasPalmas = 2130837638;
+			public const int ic_arrow_forward_white = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int Lazio = 2130837639;
+			public const int ic_done_white = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int Leganes = 2130837640;
+			public const int ic_navigate_before_white = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int LeicesterCity = 2130837641;
+			public const int ic_navigate_next_white = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int Leverkusen = 2130837642;
+			public const int ic_skip_white = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int Lille = 2130837643;
+			public const int Icon = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int LiverpoolFC = 2130837644;
+			public const int indicator_dot_grey = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int Lorient = 2130837645;
+			public const int indicator_dot_white = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int Lyonnais = 2130837646;
+			public const int Ingolstadt04 = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int Malaga = 2130837647;
+			public const int InterMilan = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int ManchesterCityFC = 2130837648;
+			public const int Juventus = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int ManUtdFC = 2130837649;
+			public const int LasPalmas = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int Marseille = 2130837650;
+			public const int Lazio = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int Metz = 2130837651;
+			public const int Leganes = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int MiddlesbroughFC = 2130837652;
+			public const int LeicesterCity = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int Milan = 2130837653;
+			public const int Leverkusen = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int Montpellier = 2130837654;
+			public const int Lille = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int Nantes = 2130837655;
+			public const int LiverpoolFC = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int Napoli = 2130837656;
+			public const int Lorient = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int NewcastleUnitedFC = 2130837657;
+			public const int Lyonnais = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int Nice = 2130837658;
+			public const int Malaga = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int notification_action_background = 2130837659;
+			public const int ManchesterCityFC = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int notification_bg = 2130837660;
+			public const int ManUtdFC = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int notification_bg_low = 2130837661;
+			public const int Marseille = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int notification_bg_low_normal = 2130837662;
+			public const int Metz = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int notification_bg_low_pressed = 2130837663;
+			public const int MiddlesbroughFC = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int notification_bg_normal = 2130837664;
+			public const int Milan = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int notification_bg_normal_pressed = 2130837665;
+			public const int Montpellier = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int notification_icon_background = 2130837666;
-			
-			// aapt resource value: 0x7f0200bc
-			public const int notification_template_icon_bg = 2130837692;
-			
-			// aapt resource value: 0x7f0200bd
-			public const int notification_template_icon_low_bg = 2130837693;
+			public const int Nantes = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int notification_tile_bg = 2130837667;
+			public const int Napoli = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int notify_panel_notification_icon_bg = 2130837668;
+			public const int NewcastleUnitedFC = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int Osasuna = 2130837669;
+			public const int Nice = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int ParisSaintGermain = 2130837670;
+			public const int notification_action_background = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int RBLeipzig = 2130837671;
+			public const int notification_bg = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int Realbetis = 2130837672;
+			public const int notification_bg_low = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int RealMadrid = 2130837673;
+			public const int notification_bg_low_normal = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int RealSociedad = 2130837674;
+			public const int notification_bg_low_pressed = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int refreshing = 2130837675;
+			public const int notification_bg_normal = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int Roma = 2130837676;
+			public const int notification_bg_normal_pressed = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int Sampdoria = 2130837677;
+			public const int notification_icon_background = 2130837677;
+			
+			// aapt resource value: 0x7f0200c7
+			public const int notification_template_icon_bg = 2130837703;
+			
+			// aapt resource value: 0x7f0200c8
+			public const int notification_template_icon_low_bg = 2130837704;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int Sassuolo = 2130837678;
+			public const int notification_tile_bg = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int SCFreiburg = 2130837679;
+			public const int notify_panel_notification_icon_bg = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int Schalke04 = 2130837680;
+			public const int Osasuna = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int Sevilla = 2130837681;
+			public const int ParisSaintGermain = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int shirt = 2130837682;
+			public const int RBLeipzig = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int SMCaen = 2130837683;
+			public const int Realbetis = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int StokeCityFC = 2130837684;
+			public const int RealMadrid = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int strategy = 2130837685;
+			public const int RealSociedad = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int TSGHoffenheim = 2130837686;
+			public const int refreshing = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int Valencia = 2130837687;
+			public const int Roma = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int Verona = 2130837688;
+			public const int Sampdoria = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int VfLWolfsburg = 2130837689;
+			public const int Sassuolo = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int WerderBremen = 2130837690;
+			public const int SCFreiburg = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int WestHamUnitedFC = 2130837691;
+			public const int Schalke04 = 2130837691;
+			
+			// aapt resource value: 0x7f0200bc
+			public const int Sevilla = 2130837692;
+			
+			// aapt resource value: 0x7f0200bd
+			public const int shirt = 2130837693;
+			
+			// aapt resource value: 0x7f0200be
+			public const int SMCaen = 2130837694;
+			
+			// aapt resource value: 0x7f0200bf
+			public const int StokeCityFC = 2130837695;
+			
+			// aapt resource value: 0x7f0200c0
+			public const int strategy = 2130837696;
+			
+			// aapt resource value: 0x7f0200c1
+			public const int TSGHoffenheim = 2130837697;
+			
+			// aapt resource value: 0x7f0200c2
+			public const int Valencia = 2130837698;
+			
+			// aapt resource value: 0x7f0200c3
+			public const int Verona = 2130837699;
+			
+			// aapt resource value: 0x7f0200c4
+			public const int VfLWolfsburg = 2130837700;
+			
+			// aapt resource value: 0x7f0200c5
+			public const int WerderBremen = 2130837701;
+			
+			// aapt resource value: 0x7f0200c6
+			public const int WestHamUnitedFC = 2130837702;
 			
 			static Drawable()
 			{
@@ -2023,8 +3479,8 @@ namespace Football
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f06006b
-			public const int action0 = 2131099755;
+			// aapt resource value: 0x7f060075
+			public const int action0 = 2131099765;
 			
 			// aapt resource value: 0x7f060048
 			public const int action_bar = 2131099720;
@@ -2047,17 +3503,17 @@ namespace Football
 			// aapt resource value: 0x7f060025
 			public const int action_bar_title = 2131099685;
 			
-			// aapt resource value: 0x7f060068
-			public const int action_container = 2131099752;
+			// aapt resource value: 0x7f060072
+			public const int action_container = 2131099762;
 			
 			// aapt resource value: 0x7f060049
 			public const int action_context_bar = 2131099721;
 			
-			// aapt resource value: 0x7f06006f
-			public const int action_divider = 2131099759;
+			// aapt resource value: 0x7f060079
+			public const int action_divider = 2131099769;
 			
-			// aapt resource value: 0x7f060069
-			public const int action_image = 2131099753;
+			// aapt resource value: 0x7f060073
+			public const int action_image = 2131099763;
 			
 			// aapt resource value: 0x7f060003
 			public const int action_menu_divider = 2131099651;
@@ -2074,11 +3530,11 @@ namespace Football
 			// aapt resource value: 0x7f060027
 			public const int action_mode_close_button = 2131099687;
 			
-			// aapt resource value: 0x7f06006a
-			public const int action_text = 2131099754;
+			// aapt resource value: 0x7f060074
+			public const int action_text = 2131099764;
 			
-			// aapt resource value: 0x7f060078
-			public const int actions = 2131099768;
+			// aapt resource value: 0x7f060082
+			public const int actions = 2131099778;
 			
 			// aapt resource value: 0x7f060028
 			public const int activity_chooser_view_content = 2131099688;
@@ -2092,44 +3548,53 @@ namespace Football
 			// aapt resource value: 0x7f06001e
 			public const int always = 2131099678;
 			
+			// aapt resource value: 0x7f060065
+			public const int back = 2131099749;
+			
+			// aapt resource value: 0x7f060068
+			public const int background = 2131099752;
+			
 			// aapt resource value: 0x7f06001b
 			public const int beginning = 2131099675;
 			
 			// aapt resource value: 0x7f060023
 			public const int bottom = 2131099683;
 			
-			// aapt resource value: 0x7f060061
-			public const int btnAnh = 2131099745;
-			
-			// aapt resource value: 0x7f060066
-			public const int btnChuyenNhuong = 2131099750;
-			
-			// aapt resource value: 0x7f060063
-			public const int btnDuc = 2131099747;
-			
 			// aapt resource value: 0x7f060062
-			public const int btnPhap = 2131099746;
+			public const int bottom_separator = 2131099746;
 			
-			// aapt resource value: 0x7f060064
-			public const int btnTBN = 2131099748;
+			// aapt resource value: 0x7f06006b
+			public const int btnAnh = 2131099755;
 			
-			// aapt resource value: 0x7f060067
-			public const int btnVideo = 2131099751;
+			// aapt resource value: 0x7f060070
+			public const int btnChuyenNhuong = 2131099760;
 			
-			// aapt resource value: 0x7f060065
-			public const int btnY = 2131099749;
+			// aapt resource value: 0x7f06006d
+			public const int btnDuc = 2131099757;
+			
+			// aapt resource value: 0x7f06006c
+			public const int btnPhap = 2131099756;
+			
+			// aapt resource value: 0x7f06006e
+			public const int btnTBN = 2131099758;
+			
+			// aapt resource value: 0x7f060071
+			public const int btnVideo = 2131099761;
+			
+			// aapt resource value: 0x7f06006f
+			public const int btnY = 2131099759;
 			
 			// aapt resource value: 0x7f06002f
 			public const int buttonPanel = 2131099695;
 			
-			// aapt resource value: 0x7f06006c
-			public const int cancel_action = 2131099756;
+			// aapt resource value: 0x7f060076
+			public const int cancel_action = 2131099766;
 			
 			// aapt resource value: 0x7f06003f
 			public const int checkbox = 2131099711;
 			
-			// aapt resource value: 0x7f060074
-			public const int chronometer = 2131099764;
+			// aapt resource value: 0x7f06007e
+			public const int chronometer = 2131099774;
 			
 			// aapt resource value: 0x7f06001f
 			public const int collapseActionView = 2131099679;
@@ -2149,8 +3614,14 @@ namespace Football
 			// aapt resource value: 0x7f06002b
 			public const int default_activity_button = 2131099691;
 			
+			// aapt resource value: 0x7f060060
+			public const int description = 2131099744;
+			
 			// aapt resource value: 0x7f06000d
 			public const int disableHome = 2131099661;
+			
+			// aapt resource value: 0x7f060067
+			public const int done = 2131099751;
 			
 			// aapt resource value: 0x7f06004a
 			public const int edit_query = 2131099722;
@@ -2158,8 +3629,8 @@ namespace Football
 			// aapt resource value: 0x7f06001c
 			public const int end = 2131099676;
 			
-			// aapt resource value: 0x7f06007e
-			public const int end_padder = 2131099774;
+			// aapt resource value: 0x7f060088
+			public const int end_padder = 2131099784;
 			
 			// aapt resource value: 0x7f060029
 			public const int expand_activities_button = 2131099689;
@@ -2176,8 +3647,8 @@ namespace Football
 			// aapt resource value: 0x7f06002d
 			public const int icon = 2131099693;
 			
-			// aapt resource value: 0x7f060079
-			public const int icon_group = 2131099769;
+			// aapt resource value: 0x7f060083
+			public const int icon_group = 2131099779;
 			
 			// aapt resource value: 0x7f060020
 			public const int ifRoom = 2131099680;
@@ -2188,17 +3659,20 @@ namespace Football
 			// aapt resource value: 0x7f06005a
 			public const int imageView = 2131099738;
 			
-			// aapt resource value: 0x7f060075
-			public const int info = 2131099765;
+			// aapt resource value: 0x7f060063
+			public const int indicator_container = 2131099747;
+			
+			// aapt resource value: 0x7f06007f
+			public const int info = 2131099775;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
 			
-			// aapt resource value: 0x7f06007a
-			public const int line1 = 2131099770;
+			// aapt resource value: 0x7f060084
+			public const int line1 = 2131099780;
 			
-			// aapt resource value: 0x7f06007c
-			public const int line3 = 2131099772;
+			// aapt resource value: 0x7f060086
+			public const int line3 = 2131099782;
 			
 			// aapt resource value: 0x7f06000a
 			public const int listMode = 2131099658;
@@ -2206,11 +3680,14 @@ namespace Football
 			// aapt resource value: 0x7f06002c
 			public const int list_item = 2131099692;
 			
-			// aapt resource value: 0x7f06006e
-			public const int media_actions = 2131099758;
+			// aapt resource value: 0x7f06005f
+			public const int main = 2131099743;
 			
-			// aapt resource value: 0x7f060082
-			public const int menu_refresh = 2131099778;
+			// aapt resource value: 0x7f060078
+			public const int media_actions = 2131099768;
+			
+			// aapt resource value: 0x7f06008c
+			public const int menu_refresh = 2131099788;
 			
 			// aapt resource value: 0x7f06001d
 			public const int middle = 2131099677;
@@ -2221,20 +3698,23 @@ namespace Football
 			// aapt resource value: 0x7f060021
 			public const int never = 2131099681;
 			
+			// aapt resource value: 0x7f060066
+			public const int next = 2131099750;
+			
 			// aapt resource value: 0x7f06000f
 			public const int none = 2131099663;
 			
 			// aapt resource value: 0x7f06000b
 			public const int normal = 2131099659;
 			
-			// aapt resource value: 0x7f060077
-			public const int notification_background = 2131099767;
+			// aapt resource value: 0x7f060081
+			public const int notification_background = 2131099777;
 			
-			// aapt resource value: 0x7f060071
-			public const int notification_main_column = 2131099761;
+			// aapt resource value: 0x7f06007b
+			public const int notification_main_column = 2131099771;
 			
-			// aapt resource value: 0x7f060070
-			public const int notification_main_column_container = 2131099760;
+			// aapt resource value: 0x7f06007a
+			public const int notification_main_column_container = 2131099770;
 			
 			// aapt resource value: 0x7f060057
 			public const int pager = 2131099735;
@@ -2254,11 +3734,11 @@ namespace Football
 			// aapt resource value: 0x7f060059
 			public const int recyclerView = 2131099737;
 			
-			// aapt resource value: 0x7f060076
-			public const int right_icon = 2131099766;
+			// aapt resource value: 0x7f060080
+			public const int right_icon = 2131099776;
 			
-			// aapt resource value: 0x7f060072
-			public const int right_side = 2131099762;
+			// aapt resource value: 0x7f06007c
+			public const int right_side = 2131099772;
 			
 			// aapt resource value: 0x7f060016
 			public const int screen = 2131099670;
@@ -2317,6 +3797,9 @@ namespace Football
 			// aapt resource value: 0x7f060012
 			public const int showTitle = 2131099666;
 			
+			// aapt resource value: 0x7f060064
+			public const int skip = 2131099748;
+			
 			// aapt resource value: 0x7f060030
 			public const int spacer = 2131099696;
 			
@@ -2332,8 +3815,8 @@ namespace Football
 			// aapt resource value: 0x7f060019
 			public const int src_over = 2131099673;
 			
-			// aapt resource value: 0x7f06006d
-			public const int status_bar_latest_event_content = 2131099757;
+			// aapt resource value: 0x7f060077
+			public const int status_bar_latest_event_content = 2131099767;
 			
 			// aapt resource value: 0x7f060042
 			public const int submenuarrow = 2131099714;
@@ -2344,11 +3827,11 @@ namespace Football
 			// aapt resource value: 0x7f06000c
 			public const int tabMode = 2131099660;
 			
-			// aapt resource value: 0x7f06007d
-			public const int text = 2131099773;
+			// aapt resource value: 0x7f060087
+			public const int text = 2131099783;
 			
-			// aapt resource value: 0x7f06007b
-			public const int text2 = 2131099771;
+			// aapt resource value: 0x7f060085
+			public const int text2 = 2131099781;
 			
 			// aapt resource value: 0x7f060036
 			public const int textSpacerNoButtons = 2131099702;
@@ -2356,8 +3839,8 @@ namespace Football
 			// aapt resource value: 0x7f060035
 			public const int textSpacerNoTitle = 2131099701;
 			
-			// aapt resource value: 0x7f060073
-			public const int time = 2131099763;
+			// aapt resource value: 0x7f06007d
+			public const int time = 2131099773;
 			
 			// aapt resource value: 0x7f06002e
 			public const int title = 2131099694;
@@ -2377,20 +3860,20 @@ namespace Football
 			// aapt resource value: 0x7f06003a
 			public const int topPanel = 2131099706;
 			
-			// aapt resource value: 0x7f060060
-			public const int tvChonGD = 2131099744;
+			// aapt resource value: 0x7f06006a
+			public const int tvChonGD = 2131099754;
 			
-			// aapt resource value: 0x7f06005f
-			public const int tvProFB = 2131099743;
+			// aapt resource value: 0x7f060069
+			public const int tvProFB = 2131099753;
 			
-			// aapt resource value: 0x7f060081
-			public const int txtContent = 2131099777;
+			// aapt resource value: 0x7f06008b
+			public const int txtContent = 2131099787;
 			
 			// aapt resource value: 0x7f06005c
 			public const int txtNgay = 2131099740;
 			
-			// aapt resource value: 0x7f060080
-			public const int txtPubDate = 2131099776;
+			// aapt resource value: 0x7f06008a
+			public const int txtPubDate = 2131099786;
 			
 			// aapt resource value: 0x7f06005d
 			public const int txtSVD = 2131099741;
@@ -2401,14 +3884,17 @@ namespace Football
 			// aapt resource value: 0x7f06005b
 			public const int txtTen = 2131099739;
 			
-			// aapt resource value: 0x7f06007f
-			public const int txtTitle = 2131099775;
+			// aapt resource value: 0x7f060089
+			public const int txtTitle = 2131099785;
 			
 			// aapt resource value: 0x7f060009
 			public const int up = 2131099657;
 			
 			// aapt resource value: 0x7f060013
 			public const int useLogo = 2131099667;
+			
+			// aapt resource value: 0x7f060061
+			public const int view_pager = 2131099745;
 			
 			// aapt resource value: 0x7f060022
 			public const int withText = 2131099682;
@@ -2548,85 +4034,106 @@ namespace Football
 			public const int CLBCard = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int DucActivity = 2130903071;
+			public const int default_indicator = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int Main = 2130903072;
+			public const int DucActivity = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int notification_action = 2130903073;
+			public const int fragment_intro = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int notification_action_tombstone = 2130903074;
+			public const int fragment_intro2 = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int notification_media_action = 2130903075;
+			public const int fragment_intro_content = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int notification_media_cancel_action = 2130903076;
+			public const int intro_layout = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int notification_template_big_media = 2130903077;
+			public const int intro_layout2 = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int notification_template_big_media_custom = 2130903078;
+			public const int Main = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int notification_template_big_media_narrow = 2130903079;
+			public const int notification_action = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int notification_template_big_media_narrow_custom = 2130903080;
+			public const int notification_action_tombstone = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int notification_template_custom_big = 2130903081;
+			public const int notification_media_action = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int notification_template_icon_group = 2130903082;
+			public const int notification_media_cancel_action = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int notification_template_lines_media = 2130903083;
+			public const int notification_template_big_media = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int notification_template_media = 2130903084;
+			public const int notification_template_big_media_custom = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int notification_template_media_custom = 2130903085;
+			public const int notification_template_big_media_narrow = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int notification_template_part_chronometer = 2130903086;
+			public const int notification_template_big_media_narrow_custom = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int notification_template_part_time = 2130903087;
+			public const int notification_template_custom_big = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int PhapActivity = 2130903088;
+			public const int notification_template_icon_group = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int Row = 2130903089;
+			public const int notification_template_lines_media = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int select_dialog_item_material = 2130903090;
+			public const int notification_template_media = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int select_dialog_multichoice_material = 2130903091;
+			public const int notification_template_media_custom = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int select_dialog_singlechoice_material = 2130903092;
+			public const int notification_template_part_chronometer = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int support_simple_spinner_dropdown_item = 2130903093;
+			public const int notification_template_part_time = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int tab = 2130903094;
+			public const int PhapActivity = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int TBNActivity = 2130903095;
+			public const int progress_indicator = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int VideoActivity = 2130903096;
+			public const int Row = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int YActivity = 2130903097;
+			public const int select_dialog_item_material = 2130903097;
+			
+			// aapt resource value: 0x7f03003a
+			public const int select_dialog_multichoice_material = 2130903098;
+			
+			// aapt resource value: 0x7f03003b
+			public const int select_dialog_singlechoice_material = 2130903099;
+			
+			// aapt resource value: 0x7f03003c
+			public const int support_simple_spinner_dropdown_item = 2130903100;
+			
+			// aapt resource value: 0x7f03003d
+			public const int tab = 2130903101;
+			
+			// aapt resource value: 0x7f03003e
+			public const int TBNActivity = 2130903102;
+			
+			// aapt resource value: 0x7f03003f
+			public const int VideoActivity = 2130903103;
+			
+			// aapt resource value: 0x7f030040
+			public const int YActivity = 2130903104;
 			
 			static Layout()
 			{
@@ -2657,11 +4164,11 @@ namespace Football
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f090022
-			public const int ApplicationName = 2131296290;
+			// aapt resource value: 0x7f09002f
+			public const int ApplicationName = 2131296303;
 			
-			// aapt resource value: 0x7f090021
-			public const int Hello = 2131296289;
+			// aapt resource value: 0x7f09002e
+			public const int Hello = 2131296302;
 			
 			// aapt resource value: 0x7f090000
 			public const int abc_action_bar_home_description = 2131296256;
@@ -2756,6 +4263,45 @@ namespace Football
 			// aapt resource value: 0x7f090012
 			public const int abc_toolbar_collapse_description = 2131296274;
 			
+			// aapt resource value: 0x7f09002d
+			public const int app_intro_done_button = 2131296301;
+			
+			// aapt resource value: 0x7f09002c
+			public const int app_intro_skip_button = 2131296300;
+			
+			// aapt resource value: 0x7f090021
+			public const int define_appintro = 2131296289;
+			
+			// aapt resource value: 0x7f090022
+			public const int library_appintro_author = 2131296290;
+			
+			// aapt resource value: 0x7f090023
+			public const int library_appintro_authorWebsite = 2131296291;
+			
+			// aapt resource value: 0x7f09002a
+			public const int library_appintro_classPath = 2131296298;
+			
+			// aapt resource value: 0x7f090028
+			public const int library_appintro_isOpenSource = 2131296296;
+			
+			// aapt resource value: 0x7f090025
+			public const int library_appintro_libraryDescription = 2131296293;
+			
+			// aapt resource value: 0x7f090024
+			public const int library_appintro_libraryName = 2131296292;
+			
+			// aapt resource value: 0x7f090027
+			public const int library_appintro_libraryVersion = 2131296295;
+			
+			// aapt resource value: 0x7f090026
+			public const int library_appintro_libraryWebsite = 2131296294;
+			
+			// aapt resource value: 0x7f09002b
+			public const int library_appintro_licenseId = 2131296299;
+			
+			// aapt resource value: 0x7f090029
+			public const int library_appintro_repositoryLink = 2131296297;
+			
 			// aapt resource value: 0x7f090013
 			public const int search_menu_title = 2131296275;
 			
@@ -2786,6 +4332,24 @@ namespace Football
 			
 			// aapt resource value: 0x7f0700a6
 			public const int Animation_AppCompat_DropDownUp = 2131165350;
+			
+			// aapt resource value: 0x7f070163
+			public const int AppIntroButtonStyleCompat = 2131165539;
+			
+			// aapt resource value: 0x7f070167
+			public const int AppIntroDefaultHeading = 2131165543;
+			
+			// aapt resource value: 0x7f070164
+			public const int AppIntroDefaultPadding = 2131165540;
+			
+			// aapt resource value: 0x7f070165
+			public const int AppIntroDefaultPadding_Intro1 = 2131165541;
+			
+			// aapt resource value: 0x7f070166
+			public const int AppIntroDefaultPadding_Intro2 = 2131165542;
+			
+			// aapt resource value: 0x7f070168
+			public const int AppIntroDefaultText = 2131165544;
 			
 			// aapt resource value: 0x7f0700a7
 			public const int Base_AlertDialog_AppCompat = 2131165351;

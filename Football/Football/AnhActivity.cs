@@ -33,6 +33,7 @@ namespace Football
 
             ActionBar.NavigationMode = ActionBarNavigationMode.Tabs;
             var pager = FindViewById<ViewPager>(Resource.Id.pager);
+            //Gan adapter cho Viewpager
             var adapter = new GenericFragmentPagerAdapter(SupportFragmentManager);
 
             adapter.AddFragmentView((i, v, b) => {
@@ -68,7 +69,7 @@ namespace Football
             Toast.MakeText(this, "This is photo number " + photoNum, ToastLength.Short).Show();
         }
 
-        //Proccess data, Build url to get json from rss and call async task
+        //Xu ly du lieu, Buil url thanh Json tu rss va goi task async
         private void LoadData()
         {
             StringBuilder strBuilder = new StringBuilder(RSS_to_json);
@@ -79,14 +80,17 @@ namespace Football
 
         class LoadDataASync : AsyncTask<string, string, string>
         {
+            //Khai bao Activity de luu tru dia chi cua MainActivity
             AnhActivity anhActivity;
             ProgressDialog mDialog;
 
+            //constructor duoc truyen vao la anhActivity
             public LoadDataASync(AnhActivity anhActivity)
             {
                 this.anhActivity = anhActivity;
             }
 
+            //Ham duoc thuc hien dau tien
             protected override void OnPreExecute()
             {
                 mDialog = new ProgressDialog(anhActivity);
@@ -95,6 +99,7 @@ namespace Football
                 mDialog.Show();
             }
 
+            //Ham thuc hien tiep theo
             protected override string RunInBackground(params string[] @params)
             {
                 string result = new HTTPDataHandler().GetHTTPData(@params[0]);

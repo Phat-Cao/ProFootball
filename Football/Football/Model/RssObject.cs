@@ -12,6 +12,7 @@ using Android.Widget;
 
 namespace Football.Model
 {
+    //Tao lop tuong ung voi chuoi Json
     public class Feed
     {
         public string url { get; set; }
